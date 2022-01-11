@@ -1,13 +1,12 @@
 {
-  "chainId": "testing",
-  "chainName": "Juno Local",
-  "rpc": "http://localhost:26657/",
-  "rest": "http://localhost:1317/",
+  "chainId": "uni",
+  "chainName": "Juno Uni Testnet",
+  "rpc": "https://rpc.uni.juno.deuslabs.fi:443/",
+  "rest": "https://lcd.uni.juno.deuslabs.fi:443/",
   "stakeCurrency": {
-    "coinDenom": "JUNO",
-    "coinMinimalDenom": "ujuno",
-    "coinDecimals": 6,
-    "coinGeckoId": "juno-network"
+    "coinDenom": "JUNOX",
+    "coinMinimalDenom": "ujunox",
+    "coinDecimals": 6
   },
   "bip44": {
     "coinType": 118
@@ -22,21 +21,16 @@
   },
   "currencies": [
     {
-      "coinDenom": "JUNO",
-      "coinMinimalDenom": "ujuno",
+      "coinDenom": "JUNOX",
+      "coinMinimalDenom": "ujunox",
       "coinDecimals": 6,
       "coinGeckoId": "juno-network"
-    },
-    {
-      "coinDenom": "COSM",
-      "coinMinimalDenom": "ucosm",
-      "coinDecimals": 6
     }
   ],
   "feeCurrencies": [
     {
-      "coinDenom": "JUNO",
-      "coinMinimalDenom": "ujuno",
+      "coinDenom": "JUNOX",
+      "coinMinimalDenom": "ujunox",
       "coinDecimals": 6,
       "coinGeckoId": "juno-network"
     }
