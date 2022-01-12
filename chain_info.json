@@ -1,11 +1,11 @@
 {
-  "chainId": "uni-1",
-  "chainName": "Juno Uni Testnet",
-  "rpc": "https://rpc.uni.juno.deuslabs.fi:443/",
-  "rest": "https://lcd.uni.juno.deuslabs.fi:443/",
+  "chainId": "juno-1",
+  "chainName": "Juno",
+  "rpc": "https://rpc-juno.itastakers.com:443/",
+  "rest": "https://lcd-juno.itastakers.com:443/",
   "stakeCurrency": {
-    "coinDenom": "JUNOX",
-    "coinMinimalDenom": "ujunox",
+    "coinDenom": "JUNO",
+    "coinMinimalDenom": "ujuno",
     "coinDecimals": 6
   },
   "bip44": {
@@ -21,16 +21,16 @@
   },
   "currencies": [
     {
-      "coinDenom": "JUNOX",
-      "coinMinimalDenom": "ujunox",
+      "coinDenom": "JUNO",
+      "coinMinimalDenom": "ujuno",
       "coinDecimals": 6,
       "coinGeckoId": "juno-network"
     }
   ],
   "feeCurrencies": [
     {
-      "coinDenom": "JUNOX",
-      "coinMinimalDenom": "ujunox",
+      "coinDenom": "JUNO",
+      "coinMinimalDenom": "ujuno",
       "coinDecimals": 6,
       "coinGeckoId": "juno-network"
     }
@@ -41,5 +41,5 @@
     "average": 0.05,
     "high": 0.1
   },
-  "features": ["cosmwasm"]
+  "features": ["cosmwasm", "stargate", "ibc-transfer"]
 }
