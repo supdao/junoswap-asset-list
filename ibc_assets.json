@@ -14,7 +14,7 @@
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/atom.png"
     },
     {
-      "id": "terrausd",
+      "id": "terra-luna",
       "name": "LUNA",
       "symbol": "LUNA",
       "chain_id": "terra-1",
@@ -23,7 +23,7 @@
       "decimals": 6,
       "channel": "info",
       "juno_channel": "channel-27",
-      "juno_denom": "ibc/test",
+      "juno_denom": "ibc/8F865D9760B482FF6254EDFEC1FF2F1273B9AB6873A7DE484F89639795D73D75",
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/luna.png"
     },
     {
@@ -36,7 +36,7 @@
       "decimals": 6,
       "channel": "info",
       "juno_channel": "channel-27",
-      "juno_denom": "ibc/test",
+      "juno_denom": "ibc/2DA4136457810BCB9DAAB620CA67BC342B17C3C70151CA70490A170DF7C9CB27",
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/ust.png"
     }
   ]
