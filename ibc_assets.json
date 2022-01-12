@@ -45,7 +45,7 @@
       "symbol": "BTSG",
       "chain_id": "bitsong-2b",
       "rpc": "https://rpc-bitsong.itastakers.com:443",
-      "denom": "uust",
+      "denom": "ubtsg",
       "decimals": 6,
       "channel": "channel-5",
       "juno_channel": "channel-17",
