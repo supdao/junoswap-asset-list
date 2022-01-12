@@ -41,7 +41,7 @@
     },
     {
       "id": "bitsong",
-      "name": "BTSG",
+      "name": "BitSong",
       "symbol": "BTSG",
       "chain_id": "bitsong-2b",
       "rpc": "https://rpc-bitsong.itastakers.com:443",
@@ -51,6 +51,20 @@
       "juno_channel": "channel-17",
       "juno_denom": "ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B",
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/btsg.png"
+    },
+    {
+      "id": "osmosis",
+      "name": "Osmosis",
+      "symbol": "OSMO",
+      "chain_id": "osmosis-1",
+      "rpc": "https://rpc-osmosis.keplr.app:443",
+      "denom": "uosmo",
+      "decimals": 6,
+      "channel": "channel-42",
+      "juno_channel": "channel-0",
+      "juno_denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/osmo.png"
     }
+    
   ]
 }
