@@ -32,7 +32,7 @@
       "symbol": "UST",
       "chain_id": "columbus-5",
       "rpc": "https://rpc-columbus.keplr.app:443",
-      "denom": "uust",
+      "denom": "uusd",
       "decimals": 6,
       "channel": "channel-20",
       "juno_channel": "channel-27",
