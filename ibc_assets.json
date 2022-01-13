@@ -2,7 +2,7 @@
   "tokens": [
     {
       "id": "cosmos",
-      "name": "Atom",
+      "name": "ATOM",
       "symbol": "ATOM",
       "chain_id": "cosmoshub-4",
       "rpc": "https://cosmoshub.validator.network:443",
@@ -54,7 +54,7 @@
     },
     {
       "id": "osmosis",
-      "name": "Osmosis",
+      "name": "OSMO",
       "symbol": "OSMO",
       "chain_id": "osmosis-1",
       "rpc": "https://rpc-osmosis.keplr.app:443",
