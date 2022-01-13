@@ -64,7 +64,19 @@
       "juno_channel": "channel-0",
       "juno_denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/osmo.png"
+    },
+    {
+      "id": "stargaze",
+      "name": "Stargaze",
+      "symbol": "STARS",
+      "chain_id": "stargaze-1",
+      "rpc": "https://rpc.stargaze.publicawesome.dev:443",
+      "denom": "ustars",
+      "decimals": 6,
+      "channel": "channel-5",
+      "juno_channel": "channel-20",
+      "juno_denom": "ibc/F6B367385300865F654E110976B838502504231705BAC0849B0651C226385885",
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/stars.png"
     }
-    
   ]
 }
