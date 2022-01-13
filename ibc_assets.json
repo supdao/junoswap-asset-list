@@ -41,7 +41,7 @@
     },
     {
       "id": "bitsong",
-      "name": "BitSong",
+      "name": "BTSG",
       "symbol": "BTSG",
       "chain_id": "bitsong-2b",
       "rpc": "https://rpc-bitsong.itastakers.com:443",
