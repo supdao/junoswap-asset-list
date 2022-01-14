@@ -65,6 +65,20 @@
       "tags": ["native"],
       "native":true,
       "denom":"ibc/2DA4136457810BCB9DAAB620CA67BC342B17C3C70151CA70490A170DF7C9CB27"
+    },
+    {
+      "id": "juno-network",
+      "pool_id": "JUNO-BTSG",
+      "chain_id": "juno-1",
+      "token_address": "",
+      "swap_address": "juno1j7pdtemw0qvl6rmnl0sf324409gz2p4sdt6rv659482x9rqqz6mqd653dg",
+      "symbol": "BTSG",
+      "name": "BitSong",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/btsg.png",
+      "tags": ["native"],
+      "native":true,
+      "denom":"ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B"
     }
   ],
   "version": {
