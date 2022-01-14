@@ -67,7 +67,7 @@
     },
     {
       "id": "stargaze",
-      "name": "Stargaze",
+      "name": "STARS",
       "symbol": "STARS",
       "chain_id": "stargaze-1",
       "rpc": "https://rpc.stargaze.publicawesome.dev:443",
