@@ -79,6 +79,20 @@
       "tags": ["native"],
       "native":true,
       "denom":"ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B"
+    },
+    {
+      "id": "juno-network",
+      "pool_id": "JUNO-LUNA",
+      "chain_id": "juno-1",
+      "token_address": "",
+      "swap_address": "juno10mrlcttkwt99wxnqfyk6327lq3ac9yhfle2fd0c5s4rp8dzqy9ps3sjzyf",
+      "symbol": "LUNA",
+      "name": "LUNA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/luna.png",
+      "tags": ["native"],
+      "native":true,
+      "denom":"ibc/8F865D9760B482FF6254EDFEC1FF2F1273B9AB6873A7DE484F89639795D73D75"
     }
   ],
   "version": {
