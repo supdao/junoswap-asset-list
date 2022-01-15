@@ -107,7 +107,21 @@
       "tags": ["native"],
       "native":true,
       "denom":"ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518"
-    }    
+    },
+    {
+      "id": "juno-network",
+      "pool_id": "JUNO-STARS",
+      "chain_id": "juno-1",
+      "token_address": "",
+      "swap_address": "juno1z5vukf037r6acgln3n37tr8a5rv7wafqzhcq29ddn9etwwtfrytsn6xvux",
+      "symbol": "STARS",
+      "name": "STARS",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/stars.png",
+      "tags": ["native"],
+      "native":true,
+      "denom":"ibc/F6B367385300865F654E110976B838502504231705BAC0849B0651C226385885"
+    }
   ],
   "version": {
     "major": 0,
