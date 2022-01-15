@@ -93,7 +93,21 @@
       "tags": ["native"],
       "native":true,
       "denom":"ibc/8F865D9760B482FF6254EDFEC1FF2F1273B9AB6873A7DE484F89639795D73D75"
-    }
+    },
+    {
+      "id": "juno-network",
+      "pool_id": "JUNO-OSMO",
+      "chain_id": "juno-1",
+      "token_address": "",
+      "swap_address": "juno1el6rfmz6h9pwpdlf6k2qf4dwt3y5wqd7k3xpyvytklsnkt9uv2aqe8aq4v",
+      "symbol": "OSMO",
+      "name": "OSMO",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/osmo.png",
+      "tags": ["native"],
+      "native":true,
+      "denom":"ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518"
+    }    
   ],
   "version": {
     "major": 0,
