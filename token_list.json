@@ -135,6 +135,20 @@
       "tags": ["native"],
       "native":true,
       "denom":"ibc/D836B191CDAE8EDACDEBE7B64B504C5E06CC17C6A072DAF278F9A96DF66F6241"
+    },
+    {
+      "id": "akash-network",
+      "pool_id": "JUNO-AKT",
+      "chain_id": "akashnet-2",
+      "token_address": "",
+      "swap_address": "juno1tmxx3rdnnrcckkh7pjde924lftjs724rzd44sqte5xh8xax0yf2sc7v7dk",
+      "symbol": "AKT",
+      "name": "AKT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/akt.png",
+      "tags": ["native"],
+      "native":true,
+      "denom":"ibc/DFC6F33796D5D0075C5FB54A4D7B8E76915ACF434CB1EE2A1BA0BB8334E17C3A"
     }
   ],
   "version": {
