@@ -121,6 +121,20 @@
       "tags": ["native"],
       "native":true,
       "denom":"ibc/F6B367385300865F654E110976B838502504231705BAC0849B0651C226385885"
+    },
+    {
+      "id": "chihuahua-token",
+      "pool_id": "JUNO-HUAHUA",
+      "chain_id": "chihuahua-1",
+      "token_address": "",
+      "swap_address": "juno1730cx75d8uevqvrkcwxpy9trhqqfksu5u9xwqss0qe4tn7x0tt3shakhk8",
+      "symbol": "HUAHUA",
+      "name": "HUAHUA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/huahua.png",
+      "tags": ["native"],
+      "native":true,
+      "denom":"ibc/D836B191CDAE8EDACDEBE7B64B504C5E06CC17C6A072DAF278F9A96DF66F6241"
     }
   ],
   "version": {
