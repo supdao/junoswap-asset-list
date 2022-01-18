@@ -77,6 +77,19 @@
       "juno_channel": "channel-20",
       "juno_denom": "ibc/F6B367385300865F654E110976B838502504231705BAC0849B0651C226385885",
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/stars.png"
+    },
+    {
+      "id": "chihuahua-token",
+      "name": "HUAHUA",
+      "symbol": "HUAHUA",
+      "chain_id": "chihuahua-1",
+      "rpc": "https://rpc.chihuahua.wtf:443",
+      "denom": "uhuahua",
+      "decimals": 6,
+      "channel": "channel-11",
+      "juno_channel": "channel-28",
+      "juno_denom": "ibc/D836B191CDAE8EDACDEBE7B64B504C5E06CC17C6A072DAF278F9A96DF66F6241",
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/huahua.png"
     }
   ]
 }
