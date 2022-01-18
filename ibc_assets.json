@@ -90,6 +90,19 @@
       "juno_channel": "channel-28",
       "juno_denom": "ibc/D836B191CDAE8EDACDEBE7B64B504C5E06CC17C6A072DAF278F9A96DF66F6241",
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/huahua.png"
+    },
+    {
+      "id": "akash-network",
+      "name": "Akash",
+      "symbol": "AKT",
+      "chain_id": "akashnet-2",
+      "rpc": "https://rpc-akash.keplr.app:443",
+      "denom": "uakt",
+      "decimals": 6,
+      "channel": "channel-35",
+      "juno_channel": "channel-29",
+      "juno_denom": "ibc/DFC6F33796D5D0075C5FB54A4D7B8E76915ACF434CB1EE2A1BA0BB8334E17C3A",
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/akt.png"
     }
   ]
 }
