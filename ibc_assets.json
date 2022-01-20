@@ -103,6 +103,19 @@
       "juno_channel": "channel-29",
       "juno_denom": "ibc/DFC6F33796D5D0075C5FB54A4D7B8E76915ACF434CB1EE2A1BA0BB8334E17C3A",
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/akt.png"
+    },
+    {
+      "id": "persistence",
+      "name": "Persistence",
+      "symbol": "XPRT",
+      "chain_id": "core-1",
+      "rpc": "https://rpc.core.persistence.one:443",
+      "denom": "uxprt",
+      "decimals": 6,
+      "channel": "channel-37",
+      "juno_channel": "channel-33",
+      "juno_denom": "ibc/7455B3F2F2737906BACF4AE980069A4CAB7C7F9FDAABAEFBA439DF037AEC5898",
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/xprt.png"
     }
   ]
 }
