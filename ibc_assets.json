@@ -70,7 +70,7 @@
       "name": "STARS",
       "symbol": "STARS",
       "chain_id": "stargaze-1",
-      "rpc": "https://rpc.stargaze.publicawesome.dev:443",
+      "rpc": "https://rpc.stargaze-apis.com:443",
       "denom": "ustars",
       "decimals": 6,
       "channel": "channel-5",
