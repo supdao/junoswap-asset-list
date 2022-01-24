@@ -163,6 +163,20 @@
       "tags": ["native"],
       "native":true,
       "denom":"ibc/7455B3F2F2737906BACF4AE980069A4CAB7C7F9FDAABAEFBA439DF037AEC5898"
+    },
+    {
+      "id": "comdex",
+      "pool_id": "JUNO-CMDX",
+      "chain_id": "comdex-1",
+      "token_address": "",
+      "swap_address": "juno152lfpmadpxh2xha5wmlh2np5rj8fuy06sk72j55v686wd4q4c9jsvwj0gm",
+      "symbol": "CMDX",
+      "name": "CMDX",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/cmdx.png",
+      "tags": ["native"],
+      "native":true,
+      "denom":"ibc/946AD96F278770521526D7283F58268DA2F6ACDDE40324A9D1C86811D78C86A0"
     }
   ],
   "version": {
