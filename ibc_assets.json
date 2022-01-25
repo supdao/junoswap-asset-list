@@ -136,7 +136,7 @@
       "symbol": "DIG",
       "chain_id": "dig-1",
       "rpc": "https://rpc-1-dig.notional.ventures:443",
-      "denom": "dig",
+      "denom": "udig",
       "decimals": 6,
       "channel": "channel-2",
       "juno_channel": "channel-37",
