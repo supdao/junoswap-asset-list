@@ -122,7 +122,7 @@
       "name": "Comdex",
       "symbol": "CMDX",
       "chain_id": "comdex-1",
-      "rpc": "https://rest.comdex.one:443",
+      "rpc": "https://rpc.comdex.one:443",
       "denom": "ucmdx",
       "decimals": 6,
       "channel": "channel-18",
