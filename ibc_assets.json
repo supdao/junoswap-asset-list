@@ -122,13 +122,26 @@
       "name": "Comdex",
       "symbol": "CMDX",
       "chain_id": "comdex-1",
-      "rpc": "https://rest.comdex.one:443",
+      "rpc": "https://rpc.comdex.one:443",
       "denom": "ucmdx",
       "decimals": 6,
       "channel": "channel-18",
       "juno_channel": "channel-36",
       "juno_denom": "ibc/946AD96F278770521526D7283F58268DA2F6ACDDE40324A9D1C86811D78C86A0",
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/cmdx.png"
+    },
+    {
+      "id": "dig",
+      "name": "Dig",
+      "symbol": "DIG",
+      "chain_id": "dig-1",
+      "rpc": "https://rpc-1-dig.notional.ventures:443",
+      "denom": "udig",
+      "decimals": 6,
+      "channel": "channel-2",
+      "juno_channel": "channel-37",
+      "juno_denom": "ibc/6842C591DC4588411A565C9FF650FB15A17DFE3F0A43201E8141E4D14B8D171A",
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/dig.png"
     },
     {
       "id": "secret",
@@ -141,7 +154,7 @@
       "channel": "channel-6",
       "juno_channel": "channel-18",
       "juno_denom": "ibc/CD78EE5B20682E5A61B4D96C9F4DC39361269B88A6B3462C26A18652F7A90A9A", 
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/scrt.png"
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/scrt.png" 
     }
   ]
 }

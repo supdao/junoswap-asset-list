@@ -179,11 +179,25 @@
       "denom":"ibc/946AD96F278770521526D7283F58268DA2F6ACDDE40324A9D1C86811D78C86A0"
     },
     {
+      "id": "dig",
+      "pool_id": "JUNO-DIG",
+      "chain_id": "dig-1",
+      "token_address": "",
+      "swap_address": "juno1gpa5ardzal22el6czj4j0d2pwy0m9qj06lr20t2l8fca3gkws63qfnx8eq",
+      "symbol": "DIG",
+      "name": "DIG",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/dig.png",
+      "tags": ["native"],
+      "native":true,
+      "denom":"ibc/6842C591DC4588411A565C9FF650FB15A17DFE3F0A43201E8141E4D14B8D171A"
+    },
+    {
       "id": "secret",
       "pool_id": "JUNO-SCRT",
       "chain_id": "secret-4",
       "token_address": "",
-      // "swap_address": "juno152lfpmadpxh2xha5wmlh2np5rj8fuy06sk72j55v686wd4q4c9jsvwj0gm",
+      "swap_address": "juno1zz8vspvcq7a3t40sy6xfxa3yk8wuy3vr8clyn3pt8pthpucnvpyqes54md",
       "symbol": "SCRT",
       "name": "SCRT",
       "decimals": 6,
