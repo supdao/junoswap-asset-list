@@ -191,6 +191,20 @@
       "tags": ["native"],
       "native":true,
       "denom":"ibc/6842C591DC4588411A565C9FF650FB15A17DFE3F0A43201E8141E4D14B8D171A"
+    },
+    {
+      "id": "secret",
+      "pool_id": "JUNO-SCRT",
+      "chain_id": "secret-4",
+      "token_address": "",
+      "swap_address": "juno1hkz5dhn59w6l29k8w8ceuramqx2f35qpen7xtlx6ezketwh8ndxq8rwq2a",
+      "symbol": "SCRT",
+      "name": "SCRT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/scrt.png",
+      "tags": ["native"],
+      "native":true,
+      "denom":"ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD"
     }
   ],
   "version": {

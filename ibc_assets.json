@@ -142,6 +142,19 @@
       "juno_channel": "channel-37",
       "juno_denom": "ibc/6842C591DC4588411A565C9FF650FB15A17DFE3F0A43201E8141E4D14B8D171A",
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/dig.png"
+    },
+    {
+      "id": "secret",
+      "name": "Secret",
+      "symbol": "SCRT",
+      "chain_id": "secret-4",
+      "rpc": "https://rpc-secret.scrtlabs.com/secret-4/rpc",
+      "denom": "uscrt",
+      "decimals": 6,
+      "channel": "channel-8",
+      "juno_channel": "channel-48",
+      "juno_denom": "ibc/DF8D00B4B31B55AFCA9BAF192BC36C67AA06D9987DCB96490661BCAB63C27006", 
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/scrt.png" 
     }
   ]
 }
