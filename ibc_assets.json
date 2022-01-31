@@ -153,7 +153,7 @@
       "decimals": 6,
       "channel": "channel-8",
       "juno_channel": "channel-48",
-      "juno_denom": "ibc/DF8D00B4B31B55AFCA9BAF192BC36C67AA06D9987DCB96490661BCAB63C27006", 
+      "juno_denom": "ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD", 
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/scrt.png" 
     }
   ]
