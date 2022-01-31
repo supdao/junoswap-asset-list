@@ -148,7 +148,7 @@
       "name": "Secret",
       "symbol": "SCRT",
       "chain_id": "secret-4",
-      "rpc": "https://rpc-secret.scrtlabs.com/secret-4/rpc",
+      "rpc": "https://rpc-secret.scrtlabs.com/secret-4/rpc/",
       "denom": "uscrt",
       "decimals": 6,
       "channel": "channel-8",
