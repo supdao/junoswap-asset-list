@@ -217,7 +217,7 @@
       "decimals": 6,
       "logoURI": "    https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/neta.png",
       "tags": ["cw20"],
-      "native":true,
+      "native":false,
       "denom":"neta"
     }
   ],
