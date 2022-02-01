@@ -229,7 +229,7 @@
     "symbol": "CANLAB",
     "name": "CANLAB",
     "decimals": 3,
-    "logoURI": "https://ibb.co/KzB47GC",
+    "logoURI": "https://raw.githubusercontent.com/seekingtau/junoswap-asset-list/main/images/cannalabs.png",
     "tags": ["cw20"],
     "native":false,
     "denom":"canlab"
