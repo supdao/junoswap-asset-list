@@ -205,6 +205,20 @@
       "tags": ["native"],
       "native":true,
       "denom":"ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD"
+    },
+    {
+      "id": "neta",
+      "pool_id": "JUNO-NETA",
+      "chain_id": "juno-1",
+      "token_address": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr",
+      "swap_address": "juno1e8n6ch7msks487ecznyeagmzd5ml2pq9tgedqt2u63vra0q0r9mqrjy6ys",
+      "symbol": "NETA",
+      "name": "NETA",
+      "decimals": 6,
+      "logoURI": "    https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/neta.png",
+      "tags": ["cw20"],
+      "native":true,
+      "denom":"neta"
     }
   ],
   "version": {
