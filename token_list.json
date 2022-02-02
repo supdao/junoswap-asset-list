@@ -233,6 +233,20 @@
     "tags": ["cw20"],
     "native":false,
     "denom":"canlab"
+    },
+    {
+      "id": "tuck",
+      "pool_id": "JUNO-TUCK",
+      "chain_id": "juno-1",
+      "token_address": "juno1wurfx334prlceydmda3aecldn2xh4axhqtly05n8gptgl69ee7msrewg6y",
+      "swap_address": "juno133xa84qnue3uy0mj9emvauddxzw554rfl9rr6eadhfau50ws7gvs4ynm79",
+      "symbol": "TUCK",
+      "name": "TUCK",
+      "decimals": 3,
+      "logoURI": "https://tuckermint.com/img/core-img/hero-bg.png",
+      "tags": ["cw20"],
+      "native":false,
+      "denom":"tuck"
   }
   ],
   "version": {
