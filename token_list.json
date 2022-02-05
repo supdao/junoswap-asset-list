@@ -207,7 +207,7 @@
       "denom":"ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD"
     },
     {
-      "id": "neta",
+      "id": "",
       "pool_id": "JUNO-NETA",
       "chain_id": "juno-1",
       "token_address": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr",
@@ -221,21 +221,21 @@
       "denom":"neta"
     },
     {
-    "id": "canlab",
-    "pool_id": "JUNO-CANLAB",
-    "chain_id": "juno-1",
-    "token_address": "juno1vn38rzq0wc7zczp4dhy0h5y5kxh2jjzeahwe30c9cc6dw3lkyk5qn5rmfa",
-    "swap_address": "juno1acs6q36t6qje5k82h5g74plr258y2q90cjf9z4wnktt7caln0mhsx8mt7z",
-    "symbol": "CANLAB",
-    "name": "CANLAB",
-    "decimals": 3,
-    "logoURI": "https://raw.githubusercontent.com/seekingtau/junoswap-asset-list/main/images/cannalabs.png",
-    "tags": ["cw20"],
-    "native":false,
-    "denom":"canlab"
+      "id": "",
+      "pool_id": "JUNO-CANLAB",
+      "chain_id": "juno-1",
+      "token_address": "juno1vn38rzq0wc7zczp4dhy0h5y5kxh2jjzeahwe30c9cc6dw3lkyk5qn5rmfa",
+      "swap_address": "juno1acs6q36t6qje5k82h5g74plr258y2q90cjf9z4wnktt7caln0mhsx8mt7z",
+      "symbol": "CANLAB",
+      "name": "CANLAB",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/seekingtau/junoswap-asset-list/main/images/cannalabs.png",
+      "tags": ["cw20"],
+      "native":false,
+      "denom":"canlab"
     },
     {
-      "id": "tuck",
+      "id": "",
       "pool_id": "JUNO-TUCK",
       "chain_id": "juno-1",
       "token_address": "juno1wurfx334prlceydmda3aecldn2xh4axhqtly05n8gptgl69ee7msrewg6y",
@@ -249,7 +249,7 @@
       "denom":"tuck"
   },
   {
-    "id": "hulc",
+    "id": "",
     "pool_id": "JUNO-HULC",
     "chain_id": "juno-1",
     "token_address": "juno1pshrvuw5ng2q4nwcsuceypjkp48d95gmcgjdxlus2ytm4k5kvz2s7t9ldx",
