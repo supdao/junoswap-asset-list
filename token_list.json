@@ -247,6 +247,20 @@
       "tags": ["cw20"],
       "native":false,
       "denom":"tuck"
+  },
+  {
+    "id": "hulc",
+    "pool_id": "JUNO-HULC",
+    "chain_id": "juno-1",
+    "token_address": "juno1pshrvuw5ng2q4nwcsuceypjkp48d95gmcgjdxlus2ytm4k5kvz2s7t9ldx",
+    "swap_address": "juno16zn96yf3vnxengke3vcf6mg9x7qyppgsdh3dnnmvdd8hvtpw58wsrjuu56",
+    "symbol": "HULC",
+    "name": "HULC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/hulcat.png",
+    "tags": ["cw20"],
+    "native":false,
+    "denom":"hulc"
   }
   ],
   "version": {
