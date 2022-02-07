@@ -161,7 +161,7 @@
       "name": "BitCanna",
       "symbol": "BCNA",
       "chain_id": "bitcanna-1",
-      "rpc": "https://rpc-bitcanna.itastakers.com",
+      "rpc": "https://rpc-bitcanna.itastakers.com:443",
       "denom": "ubcna",
       "decimals": 6,
       "channel": "channel-10",
