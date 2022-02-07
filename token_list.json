@@ -243,7 +243,7 @@
       "symbol": "TUCK",
       "name": "TUCK",
       "decimals": 3,
-      "logoURI": "https://tuckermint.com/img/core-img/hero-bg.png",
+      "logoURI": "https://raw.githubusercontent.com/tuckermint/junoswap-asset-list/main/images/tuckermint.png",
       "tags": ["cw20"],
       "native":false,
       "denom":"tuck"
