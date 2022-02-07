@@ -155,6 +155,19 @@
       "juno_channel": "channel-48",
       "juno_denom": "ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD", 
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/scrt.png" 
+    },
+    {
+      "id": "bitcanna",
+      "name": "BitCanna",
+      "symbol": "BCNA",
+      "chain_id": "bitcanna-1",
+      "rpc": "https://rpc.bitcanna.io:443",
+      "denom": "ubcna",
+      "decimals": 6,
+      "channel": "channel-10",
+      "juno_channel": "channel-50",
+      "juno_denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9", 
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.png" 
     }
   ]
 }

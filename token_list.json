@@ -261,6 +261,20 @@
     "tags": ["cw20"],
     "native":false,
     "denom":"hulc"
+  },
+  {
+    "id": "bitcanna",
+    "pool_id": "JUNO-BITCANNA",
+    "chain_id": "bitcanna-1",
+    "token_address": "",
+    "swap_address": "juno1gv2gswtan8wsk54h663waefffywnuc9wcxr7xl5pnnxvjaqunpgs20t39g",
+    "symbol": "BCNA",
+    "name": "BCNA",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.png",
+    "tags": ["native"],
+    "native":true,
+    "denom":"ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9"
   }
   ],
   "version": {
