@@ -1,7 +1,9 @@
 {
   "name": "Juno Token List",
   "logoURI": "",
-  "keywords": ["special tokens"],
+  "keywords": [
+    "special tokens"
+  ],
   "tags": {
     "Juno": {
       "name": "Juno",
@@ -10,6 +12,23 @@
   },
   "timestamp": "2022-01-12T00:00:00+00:00",
   "base_token": {
+    "id": "juno-network",
+    "pool_id": "JUNO+JUNO",
+    "chain_id": "juno-1",
+    "token_address": "",
+    "swap_address": "",
+    "symbol": "JUNO",
+    "name": "Juno",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/juno.png",
+    "tags": [
+      "native"
+    ],
+    "native": true,
+    "denom": "ujuno"
+  },
+  "tokens": [
+    {
       "id": "juno-network",
       "pool_id": "JUNO+JUNO",
       "chain_id": "juno-1",
@@ -19,24 +38,11 @@
       "name": "Juno",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/juno.png",
-      "tags": ["native"],
-      "native":true,
-      "denom":"ujuno"
-    },
-  "tokens": [
-    {
-        "id": "juno-network",
-        "pool_id": "JUNO+JUNO",
-        "chain_id": "juno-1",
-        "token_address": "",
-        "swap_address": "",
-        "symbol": "JUNO",
-        "name": "Juno",
-        "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/juno.png",
-        "tags": ["native"],
-        "native":true,
-        "denom":"ujuno"
+      "tags": [
+        "native"
+      ],
+      "native": true,
+      "denom": "ujuno"
     },
     {
       "id": "cosmos",
@@ -48,9 +54,11 @@
       "name": "Atom",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/atom.png",
-      "tags": ["native"],
-      "native":true,
-      "denom":"ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9"
+      "tags": [
+        "native"
+      ],
+      "native": true,
+      "denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9"
     },
     {
       "id": "terrausd",
@@ -62,9 +70,11 @@
       "name": "Terra UST",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/ust.png",
-      "tags": ["native"],
-      "native":true,
-      "denom":"ibc/2DA4136457810BCB9DAAB620CA67BC342B17C3C70151CA70490A170DF7C9CB27"
+      "tags": [
+        "native"
+      ],
+      "native": true,
+      "denom": "ibc/2DA4136457810BCB9DAAB620CA67BC342B17C3C70151CA70490A170DF7C9CB27"
     },
     {
       "id": "bitsong",
@@ -76,9 +86,11 @@
       "name": "BitSong",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/btsg.png",
-      "tags": ["native"],
-      "native":true,
-      "denom":"ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B"
+      "tags": [
+        "native"
+      ],
+      "native": true,
+      "denom": "ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B"
     },
     {
       "id": "terra-luna",
@@ -90,9 +102,11 @@
       "name": "LUNA",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/luna.png",
-      "tags": ["native"],
-      "native":true,
-      "denom":"ibc/8F865D9760B482FF6254EDFEC1FF2F1273B9AB6873A7DE484F89639795D73D75"
+      "tags": [
+        "native"
+      ],
+      "native": true,
+      "denom": "ibc/8F865D9760B482FF6254EDFEC1FF2F1273B9AB6873A7DE484F89639795D73D75"
     },
     {
       "id": "osmosis",
@@ -104,9 +118,11 @@
       "name": "OSMO",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/osmo.png",
-      "tags": ["native"],
-      "native":true,
-      "denom":"ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518"
+      "tags": [
+        "native"
+      ],
+      "native": true,
+      "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518"
     },
     {
       "id": "stargaze",
@@ -118,9 +134,11 @@
       "name": "STARS",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/stars.png",
-      "tags": ["native"],
-      "native":true,
-      "denom":"ibc/F6B367385300865F654E110976B838502504231705BAC0849B0651C226385885"
+      "tags": [
+        "native"
+      ],
+      "native": true,
+      "denom": "ibc/F6B367385300865F654E110976B838502504231705BAC0849B0651C226385885"
     },
     {
       "id": "chihuahua-token",
@@ -132,9 +150,11 @@
       "name": "HUAHUA",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/huahua.png",
-      "tags": ["native"],
-      "native":true,
-      "denom":"ibc/D836B191CDAE8EDACDEBE7B64B504C5E06CC17C6A072DAF278F9A96DF66F6241"
+      "tags": [
+        "native"
+      ],
+      "native": true,
+      "denom": "ibc/D836B191CDAE8EDACDEBE7B64B504C5E06CC17C6A072DAF278F9A96DF66F6241"
     },
     {
       "id": "akash-network",
@@ -146,9 +166,11 @@
       "name": "AKT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/akt.png",
-      "tags": ["native"],
-      "native":true,
-      "denom":"ibc/DFC6F33796D5D0075C5FB54A4D7B8E76915ACF434CB1EE2A1BA0BB8334E17C3A"
+      "tags": [
+        "native"
+      ],
+      "native": true,
+      "denom": "ibc/DFC6F33796D5D0075C5FB54A4D7B8E76915ACF434CB1EE2A1BA0BB8334E17C3A"
     },
     {
       "id": "persistence",
@@ -160,9 +182,11 @@
       "name": "XPRT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/xprt.png",
-      "tags": ["native"],
-      "native":true,
-      "denom":"ibc/7455B3F2F2737906BACF4AE980069A4CAB7C7F9FDAABAEFBA439DF037AEC5898"
+      "tags": [
+        "native"
+      ],
+      "native": true,
+      "denom": "ibc/7455B3F2F2737906BACF4AE980069A4CAB7C7F9FDAABAEFBA439DF037AEC5898"
     },
     {
       "id": "comdex",
@@ -174,9 +198,11 @@
       "name": "CMDX",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/cmdx.png",
-      "tags": ["native"],
-      "native":true,
-      "denom":"ibc/946AD96F278770521526D7283F58268DA2F6ACDDE40324A9D1C86811D78C86A0"
+      "tags": [
+        "native"
+      ],
+      "native": true,
+      "denom": "ibc/946AD96F278770521526D7283F58268DA2F6ACDDE40324A9D1C86811D78C86A0"
     },
     {
       "id": "dig",
@@ -188,9 +214,11 @@
       "name": "DIG",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/dig.png",
-      "tags": ["native"],
-      "native":true,
-      "denom":"ibc/6842C591DC4588411A565C9FF650FB15A17DFE3F0A43201E8141E4D14B8D171A"
+      "tags": [
+        "native"
+      ],
+      "native": true,
+      "denom": "ibc/6842C591DC4588411A565C9FF650FB15A17DFE3F0A43201E8141E4D14B8D171A"
     },
     {
       "id": "secret",
@@ -202,9 +230,11 @@
       "name": "SCRT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/scrt.png",
-      "tags": ["native"],
-      "native":true,
-      "denom":"ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD"
+      "tags": [
+        "native"
+      ],
+      "native": true,
+      "denom": "ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD"
     },
     {
       "id": "neta",
@@ -216,9 +246,11 @@
       "name": "NETA",
       "decimals": 6,
       "logoURI": "    https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/neta.png",
-      "tags": ["cw20"],
-      "native":false,
-      "denom":"neta"
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "neta"
     },
     {
       "id": "",
@@ -230,9 +262,11 @@
       "name": "CANLAB",
       "decimals": 3,
       "logoURI": "https://raw.githubusercontent.com/seekingtau/junoswap-asset-list/main/images/cannalabs.png",
-      "tags": ["cw20"],
-      "native":false,
-      "denom":"canlab"
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "canlab"
     },
     {
       "id": "",
@@ -244,38 +278,44 @@
       "name": "TUCK",
       "decimals": 3,
       "logoURI": "https://raw.githubusercontent.com/tuckermint/junoswap-asset-list/main/images/tuckermint.png",
-      "tags": ["cw20"],
-      "native":false,
-      "denom":"tuck"
-  },
-  {
-    "id": "",
-    "pool_id": "JUNO-HULC",
-    "chain_id": "juno-1",
-    "token_address": "juno1pshrvuw5ng2q4nwcsuceypjkp48d95gmcgjdxlus2ytm4k5kvz2s7t9ldx",
-    "swap_address": "juno16zn96yf3vnxengke3vcf6mg9x7qyppgsdh3dnnmvdd8hvtpw58wsrjuu56",
-    "symbol": "HULC",
-    "name": "HULC",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/hulcat.png",
-    "tags": ["cw20"],
-    "native":false,
-    "denom":"hulc"
-  },
-  {
-    "id": "bitcanna",
-    "pool_id": "JUNO-BITCANNA",
-    "chain_id": "bitcanna-1",
-    "token_address": "",
-    "swap_address": "juno1gv2gswtan8wsk54h663waefffywnuc9wcxr7xl5pnnxvjaqunpgs20t39g",
-    "symbol": "BCNA",
-    "name": "BCNA",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.png",
-    "tags": ["native"],
-    "native":true,
-    "denom":"ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9"
-  }
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "tuck"
+    },
+    {
+      "id": "",
+      "pool_id": "JUNO-HULC",
+      "chain_id": "juno-1",
+      "token_address": "juno1pshrvuw5ng2q4nwcsuceypjkp48d95gmcgjdxlus2ytm4k5kvz2s7t9ldx",
+      "swap_address": "juno16zn96yf3vnxengke3vcf6mg9x7qyppgsdh3dnnmvdd8hvtpw58wsrjuu56",
+      "symbol": "HULC",
+      "name": "HULC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/hulcat.png",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "hulc"
+    },
+    {
+      "id": "bitcanna",
+      "pool_id": "JUNO-BITCANNA",
+      "chain_id": "bitcanna-1",
+      "token_address": "",
+      "swap_address": "juno1gv2gswtan8wsk54h663waefffywnuc9wcxr7xl5pnnxvjaqunpgs20t39g",
+      "symbol": "BCNA",
+      "name": "BCNA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.png",
+      "tags": [
+        "native"
+      ],
+      "native": true,
+      "denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9"
+    }
   ],
   "version": {
     "major": 0,
