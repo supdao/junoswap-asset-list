@@ -331,6 +331,22 @@
         "cw20"
       ],
       "token_address": "juno1rqsmf8vetkgjxmqdmm0c68hzksj6vcrkjf8j7gpwffs7a5vvpxwquptfyp"
+    },
+    {
+      "id": "e-money",
+      "pool_id": "JUNO-NGM",
+      "chain_id": "emoney-3",
+      "token_address": "",
+      "swap_address": "juno1653nhx2330rnhmzk2qe9w74kwwa3jtxe4lrfs5cfq8szfms8pqzsra5fvq",
+      "symbol": "NGM",
+      "name": "e-Money",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/emoney/ngm.png",
+      "tags": [
+        "native"
+      ],
+      "native":true,
+      "denom": "ibc/52423136339C1CE8C91F6A586DFE41591BDDD4665AE526DFFA8421F9ACF95196"
     }
   ],
   "version": {
