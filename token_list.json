@@ -315,7 +315,7 @@
       ],
       "native": true,
       "denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9"
-    },
+    }
   ],
   "version": {
     "major": 0,
