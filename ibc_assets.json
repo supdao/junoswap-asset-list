@@ -57,7 +57,7 @@
       "name": "OSMO",
       "symbol": "OSMO",
       "chain_id": "osmosis-1",
-      "rpc": "https://rpc-osmosis.itastakers.com:443",
+      "rpc": "https://rpc-osmosis.keplr.app:443",
       "denom": "uosmo",
       "decimals": 6,
       "channel": "channel-42",
