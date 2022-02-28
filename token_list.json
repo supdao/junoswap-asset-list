@@ -109,6 +109,22 @@
       "denom": "ibc/8F865D9760B482FF6254EDFEC1FF2F1273B9AB6873A7DE484F89639795D73D75"
     },
     {
+      "id": "",
+      "pool_id": "JUNO-MARBLE",
+      "chain_id": "juno-1",
+      "token_address": "juno1g2g7ucurum66d42g8k5twk34yegdq8c82858gz0tq2fc75zy7khssgnhjl",
+      "swap_address": "juno1zsws7uhe2cz89qsu70ncuv33aemsc2szmld97mx2yy8gkx7fld6q04kmyd",
+      "symbol": "MARBLE",
+      "name": "MARBLE",
+      "decimals": 3,
+      "logoURI": "https://i.ibb.co/WshPHkt/marble-logo.png",
+      "tags": [
+        "cw20"
+      ],
+      "native":false,
+      "denom": "marble"
+    },
+    {
       "id": "osmosis",
       "pool_id": "JUNO-OSMO",
       "chain_id": "juno-1",
