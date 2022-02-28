@@ -315,6 +315,22 @@
       ],
       "native": true,
       "denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9"
+    },
+        {
+      "id": "",
+      "pool_id": "JUNO-HOPE",
+      "chain_id": "juno-1",
+      "token_address": "juno1re3x67ppxap48ygndmrc7har2cnc7tcxtm9nplcas4v0gc3wnmvs3s807z",
+      "swap_address": "juno18nflutunkth2smnh257sxtxn9p5tq6632kqgsw6h0c02wzpnq9rq927heu",
+      "symbol": "HOPE",
+      "name": "HOPE GALAXY",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/seekingtau/junoswap-asset-list/main/images/hopelogo.png",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "hulc"
     }
   ],
   "version": {
