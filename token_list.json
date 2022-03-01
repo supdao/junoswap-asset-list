@@ -109,6 +109,22 @@
       "denom": "ibc/8F865D9760B482FF6254EDFEC1FF2F1273B9AB6873A7DE484F89639795D73D75"
     },
     {
+      "id": "",
+      "pool_id": "JUNO-MARBLE",
+      "chain_id": "juno-1",
+      "token_address": "juno1g2g7ucurum66d42g8k5twk34yegdq8c82858gz0tq2fc75zy7khssgnhjl",
+      "swap_address": "juno1cvjuc66rdg34guugmxpz6w59rw6ghrun5m33z3hpvx6q60f40knqglhzzx",
+      "symbol": "MARBLE",
+      "name": "MARBLE",
+      "decimals": 3,
+      "logoURI": "https://i.ibb.co/WshPHkt/marble-logo.png",
+      "tags": [
+        "cw20"
+      ],
+      "native":false,
+      "denom": "marble"
+    },
+    {
       "id": "osmosis",
       "pool_id": "JUNO-OSMO",
       "chain_id": "juno-1",
@@ -331,6 +347,22 @@
       ],
       "native": false,
       "denom": "hulc"
+},
+    {
+      "id": "",
+      "pool_id": "JUNO-RAC",
+      "chain_id": "juno-1",
+      "token_address": "juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa",
+      "swap_address": "juno1m08vn7klzxh9tmqwajuux202xms2qz3uckle7zvtturcq7vk2yaqpcwxlz",
+      "symbol": "RAC",
+      "name": "RAC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/racoon-supply-rac/junoswap-asset-list/main/images/racoon.png",
+      "tags": [
+        "cw20"
+      ],
+      "native":false,
+      "denom": "rac"
     }
   ],
   "version": {
