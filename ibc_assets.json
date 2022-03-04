@@ -153,8 +153,8 @@
       "decimals": 6,
       "channel": "channel-8",
       "juno_channel": "channel-48",
-      "juno_denom": "ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD", 
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/scrt.png" 
+      "juno_denom": "ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD",
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/scrt.png"
     },
     {
       "id": "bitcanna",
@@ -166,8 +166,34 @@
       "decimals": 6,
       "channel": "channel-10",
       "juno_channel": "channel-50",
-      "juno_denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9", 
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.png" 
+      "juno_denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9",
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.png"
+    },
+    {
+      "id": "e-money",
+      "name": "NGM",
+      "symbol": "NGM",
+      "chain_id": "emoney-3",
+      "rpc": "https://rpc-emoney.keplr.app:443",
+      "denom": "ungm",
+      "decimals": 6,
+      "channel": "channel-15",
+      "juno_channel": "channel-9",
+      "juno_denom": "ibc/52423136339C1CE8C91F6A586DFE41591BDDD4665AE526DFFA8421F9ACF95196",
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/ngm.png"
+    },
+    {
+      "id": "e-money-eur",
+      "name": "EEUR",
+      "symbol": "EEUR",
+      "chain_id": "emoney-3",
+      "rpc": "https://rpc-emoney.keplr.app:443",
+      "denom": "eeur",
+      "decimals": 6,
+      "channel": "channel-15",
+      "juno_channel": "channel-9",
+      "juno_denom": "ibc/B9F7C1E4CE9219B5AF06C47B18661DBD49CCD7A6C18FF789E2FB62BB365CFF9C",
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/eeur.png"
     }
   ]
 }
