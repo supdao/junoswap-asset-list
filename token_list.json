@@ -117,7 +117,7 @@
       "symbol": "MARBLE",
       "name": "MARBLE",
       "decimals": 3,
-      "logoURI": "https://i.ibb.co/WshPHkt/marble-logo.png",
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/marble.png",
       "tags": [
         "cw20"
       ],
