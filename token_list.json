@@ -293,7 +293,7 @@
       "symbol": "HULC",
       "name": "HULC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/hulcat.png",
+      "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/hulcat.png",
       "tags": [
         "cw20"
       ],
