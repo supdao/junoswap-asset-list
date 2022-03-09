@@ -373,7 +373,7 @@
       "symbol": "COIN",
       "name": "CoinDex",
       "decimals": "6",
-      "logoURI": "https://raw.githubusercontent.com/CoinDexJuno/junoswap-asset-list/main/images/coindex.png",
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/coindex.png",
       "tags": [
         "cw20"
       ],
