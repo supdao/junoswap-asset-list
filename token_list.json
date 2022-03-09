@@ -363,6 +363,22 @@
       ],
       "native":false,
       "denom": "marble"
+    }, 
+    {
+      "id": "",
+      "pool_id": "JUNO-COIN",
+      "chain_id": "juno-1",
+      "token_address": "juno1cl2ewl842wcnagz5psd68z4dpp4gfxrrm9atm807uvyyg235h85stg7awy",
+      "swap_address": "juno14nak8v6xeawstrq7r7qmpa67qqfc9xzzymfdfpnp0luycv8knyuq5a6w2m",
+      "symbol": "COIN",
+      "name": "CoinDex",
+      "decimals": "6",
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/coindex.png",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "coin"
     }
   ],
   "version": {
