@@ -261,7 +261,7 @@
       "symbol": "CANLAB",
       "name": "CANLAB",
       "decimals": 3,
-      "logoURI": "https://raw.githubusercontent.com/seekingtau/junoswap-asset-list/main/images/cannalabs.png",
+      "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/cannalabs.png",
       "tags": [
         "cw20"
       ],
@@ -277,7 +277,7 @@
       "symbol": "TUCK",
       "name": "TUCK",
       "decimals": 3,
-      "logoURI": "https://raw.githubusercontent.com/tuckermint/junoswap-asset-list/main/images/tuckermint.png",
+      "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/tuckermint.png",
       "tags": [
         "cw20"
       ],
@@ -293,7 +293,7 @@
       "symbol": "HULC",
       "name": "HULC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/hulcat.png",
+      "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/hulcat.png",
       "tags": [
         "cw20"
       ],
@@ -325,7 +325,7 @@
       "symbol": "HOPE",
       "name": "HOPE GALAXY",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/seekingtau/junoswap-asset-list/main/images/hopelogo.png",
+      "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/hopelogo.png",
       "tags": [
         "cw20"
       ],
@@ -341,7 +341,7 @@
       "symbol": "RAC",
       "name": "RAC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/racoon-supply-rac/junoswap-asset-list/main/images/racoon.png",
+      "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/racoon.png",
       "tags": [
         "cw20"
       ],
