@@ -379,22 +379,6 @@
       ],
       "native": false,
       "denom": "coin"
-    },
-    {
-      "id": "",
-      "pool_id": "JUNO-DAISY",
-      "chain_id": "juno-1",
-      "token_address": "juno1p32te9zfhd99ehpxfd06hka6hc9p7tv5kyl5909mzedg5klze09qrg08ry",
-      "swap_address": "juno14p3wvpeezqueenfu9jy29s96xuk0hp38k5d5k4ysyzk789v032sqp8uvh3",
-      "symbol": "DAISY",
-      "name": "Daisy Finance ",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/daisy.png",
-      "tags": [
-        "cw20"
-      ],
-      "native": false,
-      "denom": "daisy"
     }
   ],
   "version": {
