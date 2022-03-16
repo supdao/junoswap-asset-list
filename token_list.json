@@ -421,7 +421,7 @@
       "symbol": "FUTURE",
       "name": "FUTURE OF",
       "decimals": 6,
-      "logoURI": "https://future-of.web.app/futuretoken.svg",
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/futuretoken.png",
       "tags": [
         "cw20"
       ],
