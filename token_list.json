@@ -427,7 +427,7 @@
       ],
       "native": false,
       "denom": "future"
-    },
+    }
   ],
   "version": {
     "major": 0,
