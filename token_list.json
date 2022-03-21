@@ -436,7 +436,7 @@
       "swap_address": "juno19859m5x8kgepwafc3h0n36kz545ngc2vlqnqxx7gx3t2kguv6fws93cu25",
       "symbol": "BFOT",
       "name": "Burned Fortis Oeconomia Token",
-      "decimals": "10",
+      "decimals": 10,
       "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/bfot.png",
       "tags": [
         "cw20"
