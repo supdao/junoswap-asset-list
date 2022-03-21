@@ -437,7 +437,7 @@
       "symbol": "BFOT",
       "name": "Burned Fortis Oeconomia Token",
       "decimals": 10,
-      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/bfot.png",
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/bFOT.png",
       "tags": [
         "cw20"
       ],
