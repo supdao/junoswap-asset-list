@@ -443,6 +443,22 @@
       ],
       "native": false,
       "denom": "bfot"
+    },
+    {
+      "id": "",
+      "pool_id": "JUNO-PHMN",
+      "chain_id": "juno-1",
+      "token_address": "juno1rws84uz7969aaa7pej303udhlkt3j9ca0l3egpcae98jwak9quzq8szn2l",
+      "swap_address": "juno1xkm8tmm7jlqdh8kua9y7wst8fwcxpdnk6gglndfckj6rsjg4xc5q8aaawn",
+      "symbol": "PHMN",
+      "name": "POSTHUMAN",
+      "decimals": "6",
+      "logoURI": "https://raw.githubusercontent.com/Antropocosmist/POSTHUMAN_brandbook/main/PHMN_512.png",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "phmn"
     }
   ],
   "version": {
