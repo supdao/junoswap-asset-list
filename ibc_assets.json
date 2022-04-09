@@ -194,6 +194,19 @@
       "juno_channel": "channel-9",
       "juno_denom": "ibc/B9F7C1E4CE9219B5AF06C47B18661DBD49CCD7A6C18FF789E2FB62BB365CFF9C",
       "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/eeur.png"
+    },
+    {
+      "id": "rizon",
+      "name": "RIZON",
+      "symbol": "ATOLO",
+      "chainid": "titan-1",
+      "rpc": "seed-1.mainnet.rizon.world:9090",
+      "denom": "uatolo",
+      "decimals": 6,
+      "channel": "channel-3",
+      "juno_channel": "channel-76",
+      "junodenom": "ibc/A5A405107D27B0C4CDF9C6CCB6FF05EB8D1B7F9F322BE5C1B2315B2758329B87",
+      "logoURI": "https://github.com/rizon-world/rizon-assets"
     }
   ]
 }
