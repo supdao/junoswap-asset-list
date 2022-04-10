@@ -485,7 +485,7 @@
       "symbol": "NMN",
       "name": "OpenNMN",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/InstantLife/OpenNMN-Logo/main/nmn500x500.png",
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/nmn.png",
       "tags": ["cw20"],
       "native":false,
       "denom": "nmn"
