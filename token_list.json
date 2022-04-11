@@ -479,7 +479,7 @@
     {
       "id": "",
       "pool_id": "JUNO-NMN",
-      "chain_id": "Juno-1",
+      "chain_id": "juno-1",
       "token_address": "juno17r8dyxuj25muaudhgqgx4xrg6gzr6tvzem6gwtpprnfld58yggcqjhhkjy",
       "swap_address": "juno1w7l7hetsm4x6hxa55dsjwszqh9elzwqrd6cud2qkqhafrd6u9vrqc2zh48",
       "symbol": "NMN",
