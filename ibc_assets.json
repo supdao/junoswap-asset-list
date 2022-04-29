@@ -96,7 +96,7 @@
       "name": "Akash",
       "symbol": "AKT",
       "chain_id": "akashnet-2",
-      "rpc": "https://rpc-akash.keplr.app:443",
+      "rpc": "https://rpc.cosmos.directory:443/akash",
       "denom": "uakt",
       "decimals": 6,
       "channel": "channel-35",
