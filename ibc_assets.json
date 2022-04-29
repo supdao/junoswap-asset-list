@@ -5,7 +5,7 @@
       "name": "ATOM",
       "symbol": "ATOM",
       "chain_id": "cosmoshub-4",
-      "rpc": "https://cosmoshub.validator.network:443",
+      "rpc": "https://rpc-cosmos.cosmoapi.com:443",
       "denom": "uatom",
       "decimals": 6,
       "channel": "channel-207",
