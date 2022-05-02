@@ -491,6 +491,22 @@
       ],
       "native":false,
       "denom": "nmn"
+    },
+    {
+      "id": "",
+      "pool_id": "JUNO-SGNL",
+      "chain_id": "juno-1",
+      "token_address": "juno14lycavan8gvpjn97aapzvwmsj8kyrvf644p05r0hu79namyj3ens87650k",
+      "swap_address": "juno1jz50fj5zkcv3h6hmcfr3nr6eer7rj5pmsry5qj5jc8rfvpeavyzsgknm83",
+      "symbol": "SGNL",
+      "name": "Signal",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/sngl.png",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "sgnl"
     }
     ],
   "version": {
