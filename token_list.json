@@ -501,7 +501,7 @@
       "symbol": "SGNL",
       "name": "Signal",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/sngl.png",
+      "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/sgnl.png",
       "tags": [
         "cw20"
       ],
