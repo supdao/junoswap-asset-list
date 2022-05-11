@@ -317,6 +317,38 @@
       "denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9"
     },
     {
+      "id": "e-money",
+      "pool_id": "JUNO-NGM",
+      "chain_id": "emoney-3",
+      "token_address": "",
+      "swap_address": "juno1653nhx2330rnhmzk2qe9w74kwwa3jtxe4lrfs5cfq8szfms8pqzsra5fvq",
+      "symbol": "NGM",
+      "name": "e-Money",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/emoney/ngm.png",
+      "tags": [
+        "native"
+      ],
+      "native":true,
+      "denom": "ibc/52423136339C1CE8C91F6A586DFE41591BDDD4665AE526DFFA8421F9ACF95196"
+    },
+    {
+      "id": "eEUR",
+      "pool_id": "JUNO-EEUR",
+      "chain_id": "emoney-3",
+      "token_address": "",
+      "swap_address": "juno1z698dxy9gj4fnrs76xwmtqwh84lamav9xl0w35pd35vnfx7987nqudxyge",
+      "symbol": "EEUR",
+      "name": "e-Money EUR",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/eeur.png",
+      "tags": [
+        "native"
+      ],
+      "native":true,
+      "denom": "ibc/B9F7C1E4CE9219B5AF06C47B18661DBD49CCD7A6C18FF789E2FB62BB365CFF9C"
+    },
+    {      
       "id": "",
       "pool_id": "JUNO-HOPE",
       "chain_id": "juno-1",
