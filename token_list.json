@@ -1,9 +1,7 @@
 {
   "name": "Juno Token List",
   "logoURI": "",
-  "keywords": [
-    "special tokens"
-  ],
+  "keywords": ["special tokens"],
   "tags": {
     "Juno": {
       "name": "Juno",
@@ -21,9 +19,7 @@
     "name": "Juno",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/juno.png",
-    "tags": [
-      "native"
-    ],
+    "tags": ["native"],
     "native": true,
     "denom": "ujuno"
   },
@@ -38,11 +34,24 @@
       "name": "Juno",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/juno.png",
-      "tags": [
-        "native"
-      ],
+      "tags": ["native"],
       "native": true,
       "denom": "ujuno"
+    },
+    {
+      "id": "",
+      "pool_id": "JUNO-RAW",
+      "chain_id": "juno-1",
+      "token_address": "juno15u3dt79t6sxxa3x3kpkhzsy56edaa5a66wvt3kxmukqjz2sx0hes5sn38g",
+      "swap_address": "juno124d0zymrkdxv72ccyuqrquur8dkesmxmx2unfn7dej95yqx5yn8s70x3yj",
+      "staking_address": "juno1jk7kz2xd880ew9gel2xjh6ucpterflg6jkjymd2636kc9fnqku6qf3ajq0",
+      "symbol": "RAW",
+      "name": "Raw",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/Raw.png",
+      "tags": ["cw20"],
+      "native": false,
+      "denom": "raw"
     },
     {
       "id": "cosmos",
@@ -50,13 +59,12 @@
       "chain_id": "juno-1",
       "token_address": "",
       "swap_address": "juno1sg6chmktuhyj4lsrxrrdflem7gsnk4ejv6zkcc4d3vcqulzp55wsf4l4gl",
+      "staking_address": "juno1ddulcgq7hjwal3jjx9n33x9rr0xf5j0p3je0j4kytt4uyrnk0uhq0ehcyh",
       "symbol": "ATOM",
       "name": "Atom",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/atom.png",
-      "tags": [
-        "native"
-      ],
+      "tags": ["native"],
       "native": true,
       "denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9"
     },
@@ -70,9 +78,7 @@
       "name": "Terra UST",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/ust.png",
-      "tags": [
-        "native"
-      ],
+      "tags": ["native"],
       "native": true,
       "denom": "ibc/2DA4136457810BCB9DAAB620CA67BC342B17C3C70151CA70490A170DF7C9CB27"
     },
@@ -86,9 +92,7 @@
       "name": "BitSong",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/btsg.png",
-      "tags": [
-        "native"
-      ],
+      "tags": ["native"],
       "native": true,
       "denom": "ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B"
     },
@@ -102,9 +106,7 @@
       "name": "LUNA",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/luna.png",
-      "tags": [
-        "native"
-      ],
+      "tags": ["native"],
       "native": true,
       "denom": "ibc/8F865D9760B482FF6254EDFEC1FF2F1273B9AB6873A7DE484F89639795D73D75"
     },
@@ -114,13 +116,12 @@
       "chain_id": "juno-1",
       "token_address": "",
       "swap_address": "juno1el6rfmz6h9pwpdlf6k2qf4dwt3y5wqd7k3xpyvytklsnkt9uv2aqe8aq4v",
+      "staking_address": "juno1yqum3uy7jx60qarnputjzn6fewmlwc8flvzs6q0raw7ec6l4p00qwytzcs",
       "symbol": "OSMO",
       "name": "OSMO",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/osmo.png",
-      "tags": [
-        "native"
-      ],
+      "tags": ["native"],
       "native": true,
       "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518"
     },
@@ -134,9 +135,7 @@
       "name": "STARS",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/stars.png",
-      "tags": [
-        "native"
-      ],
+      "tags": ["native"],
       "native": true,
       "denom": "ibc/F6B367385300865F654E110976B838502504231705BAC0849B0651C226385885"
     },
@@ -150,9 +149,7 @@
       "name": "HUAHUA",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/huahua.png",
-      "tags": [
-        "native"
-      ],
+      "tags": ["native"],
       "native": true,
       "denom": "ibc/D836B191CDAE8EDACDEBE7B64B504C5E06CC17C6A072DAF278F9A96DF66F6241"
     },
@@ -166,9 +163,7 @@
       "name": "AKT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/akt.png",
-      "tags": [
-        "native"
-      ],
+      "tags": ["native"],
       "native": true,
       "denom": "ibc/DFC6F33796D5D0075C5FB54A4D7B8E76915ACF434CB1EE2A1BA0BB8334E17C3A"
     },
@@ -182,9 +177,7 @@
       "name": "XPRT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/xprt.png",
-      "tags": [
-        "native"
-      ],
+      "tags": ["native"],
       "native": true,
       "denom": "ibc/7455B3F2F2737906BACF4AE980069A4CAB7C7F9FDAABAEFBA439DF037AEC5898"
     },
@@ -198,9 +191,7 @@
       "name": "CMDX",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/cmdx.png",
-      "tags": [
-        "native"
-      ],
+      "tags": ["native"],
       "native": true,
       "denom": "ibc/946AD96F278770521526D7283F58268DA2F6ACDDE40324A9D1C86811D78C86A0"
     },
@@ -214,9 +205,7 @@
       "name": "DIG",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/dig.png",
-      "tags": [
-        "native"
-      ],
+      "tags": ["native"],
       "native": true,
       "denom": "ibc/6842C591DC4588411A565C9FF650FB15A17DFE3F0A43201E8141E4D14B8D171A"
     },
@@ -230,9 +219,7 @@
       "name": "SCRT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/scrt.png",
-      "tags": [
-        "native"
-      ],
+      "tags": ["native"],
       "native": true,
       "denom": "ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD"
     },
@@ -242,13 +229,12 @@
       "chain_id": "juno-1",
       "token_address": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr",
       "swap_address": "juno1e8n6ch7msks487ecznyeagmzd5ml2pq9tgedqt2u63vra0q0r9mqrjy6ys",
+      "staking_address": "juno12sulrvp220gpsp8jsr7dpk9sdydhe8plasltftc6fnxl7yukh24qjvqcu9",
       "symbol": "NETA",
       "name": "NETA",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/neta.png",
-      "tags": [
-        "cw20"
-      ],
+      "tags": ["cw20"],
       "native": false,
       "denom": "neta"
     },
@@ -262,9 +248,7 @@
       "name": "CANLAB",
       "decimals": 3,
       "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/cannalabs.png",
-      "tags": [
-        "cw20"
-      ],
+      "tags": ["cw20"],
       "native": false,
       "denom": "canlab"
     },
@@ -278,9 +262,7 @@
       "name": "TUCK",
       "decimals": 3,
       "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/tuckermint.png",
-      "tags": [
-        "cw20"
-      ],
+      "tags": ["cw20"],
       "native": false,
       "denom": "tuck"
     },
@@ -294,9 +276,7 @@
       "name": "HULC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/hulcat.png",
-      "tags": [
-        "cw20"
-      ],
+      "tags": ["cw20"],
       "native": false,
       "denom": "hulc"
     },
@@ -310,9 +290,7 @@
       "name": "BCNA",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.png",
-      "tags": [
-        "native"
-      ],
+      "tags": ["native"],
       "native": true,
       "denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9"
     },
@@ -326,10 +304,8 @@
       "name": "e-Money",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/emoney/ngm.png",
-      "tags": [
-        "native"
-      ],
-      "native":true,
+      "tags": ["native"],
+      "native": true,
       "denom": "ibc/52423136339C1CE8C91F6A586DFE41591BDDD4665AE526DFFA8421F9ACF95196"
     },
     {
@@ -342,13 +318,11 @@
       "name": "e-Money EUR",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/eeur.png",
-      "tags": [
-        "native"
-      ],
-      "native":true,
+      "tags": ["native"],
+      "native": true,
       "denom": "ibc/B9F7C1E4CE9219B5AF06C47B18661DBD49CCD7A6C18FF789E2FB62BB365CFF9C"
     },
-    {      
+    {
       "id": "",
       "pool_id": "JUNO-HOPE",
       "chain_id": "juno-1",
@@ -358,9 +332,7 @@
       "name": "HOPE GALAXY",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/hopelogo.png",
-      "tags": [
-        "cw20"
-      ],
+      "tags": ["cw20"],
       "native": false,
       "denom": "hope"
     },
@@ -374,9 +346,7 @@
       "name": "RAC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/racoon.png",
-      "tags": [
-        "cw20"
-      ],
+      "tags": ["cw20"],
       "native": false,
       "denom": "rac"
     },
@@ -390,9 +360,7 @@
       "name": "MARBLE",
       "decimals": 3,
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/marble.png",
-      "tags": [
-        "cw20"
-      ],
+      "tags": ["cw20"],
       "native": false,
       "denom": "marble"
     },
@@ -406,9 +374,7 @@
       "name": "CoinDex",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/coindex.png",
-      "tags": [
-        "cw20"
-      ],
+      "tags": ["cw20"],
       "native": false,
       "denom": "coin"
     },
@@ -422,9 +388,7 @@
       "name": "Cardinal Finance ",
       "decimals": "6",
       "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/primo.png",
-      "tags": [
-        "cw20"
-      ],
+      "tags": ["cw20"],
       "native": false,
       "denom": "primo"
     },
@@ -438,9 +402,7 @@
       "name": "Daisy Finance ",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/daisy.png",
-      "tags": [
-        "cw20"
-      ],
+      "tags": ["cw20"],
       "native": false,
       "denom": "daisy"
     },
@@ -454,9 +416,7 @@
       "name": "FUTURE OF",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/futuretoken.png",
-      "tags": [
-        "cw20"
-      ],
+      "tags": ["cw20"],
       "native": false,
       "denom": "future"
     },
@@ -470,9 +430,7 @@
       "name": "Burned Fortis Oeconomia Token",
       "decimals": 10,
       "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/bFOT.png",
-      "tags": [
-        "cw20"
-      ],
+      "tags": ["cw20"],
       "native": false,
       "denom": "bfot"
     },
@@ -486,9 +444,7 @@
       "name": "POSTHUMAN",
       "decimals": "6",
       "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/PHMN.png",
-      "tags": [
-        "cw20"
-      ],
+      "tags": ["cw20"],
       "native": false,
       "denom": "phmn"
     },
@@ -502,9 +458,7 @@
       "name": "Arto DAO",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/arto.png",
-      "tags": [
-      "cw20"
-      ],
+      "tags": ["cw20"],
       "native": false,
       "denom": "arto"
     },
@@ -518,10 +472,8 @@
       "name": "OpenNMN",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/nmn.png",
-      "tags": [
-      "cw20"
-      ],
-      "native":false,
+      "tags": ["cw20"],
+      "native": false,
       "denom": "nmn"
     },
     {
@@ -534,13 +486,11 @@
       "name": "Signal",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/sgnl.png",
-      "tags": [
-        "cw20"
-      ],
+      "tags": ["cw20"],
       "native": false,
       "denom": "sgnl"
     }
-    ],
+  ],
   "version": {
     "major": 0,
     "minor": 1,
