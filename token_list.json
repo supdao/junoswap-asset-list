@@ -489,6 +489,20 @@
       "tags": ["cw20"],
       "native": false,
       "denom": "sgnl"
+    },
+    {
+      "id": "joe",
+      "pool_id": "JUNO-JOE",
+      "chain_id": "juno-1",
+      "token_address": "juno1n7n7d5088qlzlj37e9mgmkhx6dfgtvt02hqxq66lcap4dxnzdhwqfmgng3",
+      "swap_address": "juno1rft4xp5e6ffta5a8aqwtu4kgdfjqw4jhnleu8agmmedzrxsat7pqxfgfrs",
+      "symbol": "JOE",
+      "name": "JoeDAO",
+      "decimals": 6,
+      "logoURI": "https://github.com/joedaoofficial/JoeDao/blob/main/Assets/JoeDAO_Official_Logo.png?raw=true",
+      "tags": ["cw20"],
+      "native": false,
+      "denom": "joedao"
     }
   ],
   "version": {
