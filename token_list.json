@@ -499,7 +499,7 @@
       "symbol": "JOE",
       "name": "JoeDAO",
       "decimals": "6",
-      "logoURI": "https://i.postimg.cc/C1BYssVt/Joe-DAO-Official-Logo.png",
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/joedao.png",
       "tags": ["cw20"],
       "native": false,
       "denom": "joe"
