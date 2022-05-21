@@ -196,7 +196,7 @@
       "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/eeur.png"
     },
     {
-      "id": "axl-usdc",
+      "id": "usd-coin",
       "name": "USDC",
       "symbol": "USDC",
       "chain_id": "axelar-dojo-1",
