@@ -69,6 +69,21 @@
       "denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9"
     },
     {
+      "id": "usdc",
+      "pool_id": "JUNO-USDC",
+      "chain_id": "juno-1",
+      "token_address": "",
+      "swap_address": "juno1ctsmp54v79x7ea970zejlyws50cj9pkrmw49x46085fn80znjmpqz2n642",
+      "staking_address": "",
+      "symbol": "USDC",
+      "name": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/axlusdc.png",
+      "tags": ["native"],
+      "native": true,
+      "denom": "ibc/EAC38D55372F38F1AFD68DF7FE9EF762DCF69F26520643CF3F9D292A738D8034"
+    },
+    {
       "id": "terrausd",
       "pool_id": "JUNO-UST",
       "chain_id": "juno-1",
