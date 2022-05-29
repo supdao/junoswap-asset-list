@@ -15,8 +15,8 @@
     },
     {
       "id": "terra-luna",
-      "name": "LUNA",
-      "symbol": "LUNA",
+      "name": "Terra Classic",
+      "symbol": "LUNC",
       "chain_id": "columbus-5",
       "rpc": "https://rpc-columbus.keplr.app:443",
       "denom": "uluna",
@@ -24,12 +24,12 @@
       "channel": "channel-20",
       "juno_channel": "channel-27",
       "juno_denom": "ibc/8F865D9760B482FF6254EDFEC1FF2F1273B9AB6873A7DE484F89639795D73D75",
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/luna.png"
+      "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/lunc.png"
     },
     {
       "id": "terrausd",
-      "name": "UST",
-      "symbol": "UST",
+      "name": "Terra UST Classic",
+      "symbol": "USTC",
       "chain_id": "columbus-5",
       "rpc": "https://rpc-columbus.keplr.app:443",
       "denom": "uusd",
@@ -37,7 +37,7 @@
       "channel": "channel-20",
       "juno_channel": "channel-27",
       "juno_denom": "ibc/2DA4136457810BCB9DAAB620CA67BC342B17C3C70151CA70490A170DF7C9CB27",
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/ust.png"
+      "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/ustc.png"
     },
     {
       "id": "bitsong",
