@@ -11,7 +11,7 @@
       "channel": "channel-207",
       "juno_channel": "channel-1",
       "juno_denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/atom.png"
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/atom.png"
     },
     {
       "id": "terra-luna",
@@ -50,7 +50,7 @@
       "channel": "channel-5",
       "juno_channel": "channel-17",
       "juno_denom": "ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B",
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/btsg.png"
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/btsg.png"
     },
     {
       "id": "osmosis",
@@ -63,7 +63,7 @@
       "channel": "channel-42",
       "juno_channel": "channel-0",
       "juno_denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/osmo.png"
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/osmo.png"
     },
     {
       "id": "stargaze",
@@ -76,7 +76,7 @@
       "channel": "channel-5",
       "juno_channel": "channel-20",
       "juno_denom": "ibc/F6B367385300865F654E110976B838502504231705BAC0849B0651C226385885",
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/stars.png"
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/stars.png"
     },
     {
       "id": "chihuahua-token",
@@ -89,7 +89,7 @@
       "channel": "channel-11",
       "juno_channel": "channel-28",
       "juno_denom": "ibc/D836B191CDAE8EDACDEBE7B64B504C5E06CC17C6A072DAF278F9A96DF66F6241",
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/huahua.png"
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/huahua.png"
     },
     {
       "id": "akash-network",
@@ -102,7 +102,7 @@
       "channel": "channel-35",
       "juno_channel": "channel-29",
       "juno_denom": "ibc/DFC6F33796D5D0075C5FB54A4D7B8E76915ACF434CB1EE2A1BA0BB8334E17C3A",
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/akt.png"
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/akt.png"
     },
     {
       "id": "persistence",
@@ -115,7 +115,7 @@
       "channel": "channel-37",
       "juno_channel": "channel-33",
       "juno_denom": "ibc/7455B3F2F2737906BACF4AE980069A4CAB7C7F9FDAABAEFBA439DF037AEC5898",
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/xprt.png"
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/xprt.png"
     },
     {
       "id": "comdex",
@@ -128,7 +128,7 @@
       "channel": "channel-18",
       "juno_channel": "channel-36",
       "juno_denom": "ibc/946AD96F278770521526D7283F58268DA2F6ACDDE40324A9D1C86811D78C86A0",
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/cmdx.png"
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/cmdx.png"
     },
     {
       "id": "dig",
@@ -141,7 +141,7 @@
       "channel": "channel-2",
       "juno_channel": "channel-37",
       "juno_denom": "ibc/6842C591DC4588411A565C9FF650FB15A17DFE3F0A43201E8141E4D14B8D171A",
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/dig.png"
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/dig.png"
     },
     {
       "id": "secret",
@@ -154,7 +154,7 @@
       "channel": "channel-8",
       "juno_channel": "channel-48",
       "juno_denom": "ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD",
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/scrt.png"
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/scrt.png"
     },
     {
       "id": "bitcanna",
@@ -167,7 +167,7 @@
       "channel": "channel-10",
       "juno_channel": "channel-50",
       "juno_denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9",
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.png"
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/bcna.png"
     },
     {
       "id": "e-money",
@@ -206,7 +206,7 @@
       "channel": "channel-4",
       "juno_channel": "channel-71",
       "juno_denom": "ibc/EAC38D55372F38F1AFD68DF7FE9EF762DCF69F26520643CF3F9D292A738D8034",
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/axlusdc.png",
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/axlusdc.png",
       "external_deposit_uri": "https://satellite.money/?source=ethereum&destination=juno&token=usdc"
     }
   ]
