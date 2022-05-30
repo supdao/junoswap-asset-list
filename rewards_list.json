@@ -11,7 +11,7 @@
           "swap_address": "",
           "symbol": "JUNO",
           "name": "Juno",
-          "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/juno.png",
+          "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
           "native": true,
           "denom": "ujuno",
           "decimals": 6
@@ -22,7 +22,7 @@
           "swap_address": "juno1ehnmjq4232yxh7t2xfkjfqkeddsflcc4z5xd2f7lfcms904szf4skk7pju",
           "symbol": "RAW",
           "name": "Raw",
-          "logoURI": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/Raw.png",
+          "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Raw.png",
           "native": false,
           "denom": "raw",
           "decimals": 6
@@ -39,7 +39,7 @@
           "swap_address": "juno1ehnmjq4232yxh7t2xfkjfqkeddsflcc4z5xd2f7lfcms904szf4skk7pju",
           "symbol": "RAW",
           "name": "Raw",
-          "logoURI": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/Raw.png",
+          "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Raw.png",
           "native": false,
           "denom": "raw",
           "decimals": 6
@@ -56,7 +56,7 @@
           "swap_address": "",
           "symbol": "JUNO",
           "name": "Juno",
-          "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/juno.png",
+          "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
           "native": true,
           "denom": "ujuno",
           "decimals": 6
@@ -67,7 +67,7 @@
           "swap_address": "juno1ehnmjq4232yxh7t2xfkjfqkeddsflcc4z5xd2f7lfcms904szf4skk7pju",
           "symbol": "RAW",
           "name": "Raw",
-          "logoURI": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/Raw.png",
+          "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Raw.png",
           "native": false,
           "denom": "raw",
           "decimals": 6
@@ -84,7 +84,7 @@
           "swap_address": "juno1ehnmjq4232yxh7t2xfkjfqkeddsflcc4z5xd2f7lfcms904szf4skk7pju",
           "symbol": "RAW",
           "name": "Raw",
-          "logoURI": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/Raw.png",
+          "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Raw.png",
           "native": false,
           "denom": "raw",
           "decimals": 6
