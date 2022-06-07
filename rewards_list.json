@@ -51,6 +51,17 @@
       "swap_address": "juno1ctsmp54v79x7ea970zejlyws50cj9pkrmw49x46085fn80znjmpqz2n642",
       "rewards_tokens": [
         {
+          "rewards_address": "juno13nqp4zaryv0psnjlzdmwah4nl8fdwy9qev34kv42yp7pu4457cwquu0w6t",
+          "token_address": "",
+          "swap_address": "",
+          "symbol": "JUNO",
+          "name": "Juno",
+          "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
+          "native": true,
+          "denom": "ujuno",
+          "decimals": 6
+        },
+        {
           "rewards_address": "juno15sfz9cz97uj38uc9nhuchjwcj638xkt4y5k909tq8ag5dkt8ys5qh0sjwj",
           "token_address": "juno15u3dt79t6sxxa3x3kpkhzsy56edaa5a66wvt3kxmukqjz2sx0hes5sn38g",
           "swap_address": "juno1ctsmp54v79x7ea970zejlyws50cj9pkrmw49x46085fn80znjmpqz2n642",
