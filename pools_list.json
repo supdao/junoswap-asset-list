@@ -1400,6 +1400,43 @@
          "rewards_tokens":[
             
          ]
+      },
+      {
+         "pool_id":"RAW-OSMO",
+         "pool_assets":[
+            {
+               "id":"",
+               "chain_id":"juno-1",
+               "token_address":"juno15u3dt79t6sxxa3x3kpkhzsy56edaa5a66wvt3kxmukqjz2sx0hes5sn38g",
+               "symbol":"RAW",
+               "name":"Raw",
+               "decimals":6,
+               "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Raw.png",
+               "tags":[
+                  "cw20"
+               ],
+               "native":false,
+               "denom":"raw"
+            },
+            {
+               "id":"osmosis",
+               "chain_id":"juno-1",
+               "token_address":"",
+               "symbol":"OSMO",
+               "name":"OSMO",
+               "decimals":6,
+               "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/osmo.png",
+               "tags":[
+                  "native"
+               ],
+               "native":true,
+               "denom":"ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518"
+            }
+         ],
+         "swap_address":"juno17h4sgpaksygdnswpx74szv98hggddc08ny4zv5ca63jv53qptxrshacvku",
+         "staking_address":"",
+         "rewards_tokens":[
+         ]
       }
    ],
    "version":{
