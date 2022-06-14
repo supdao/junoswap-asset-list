@@ -1434,8 +1434,19 @@
             }
          ],
          "swap_address":"juno17h4sgpaksygdnswpx74szv98hggddc08ny4zv5ca63jv53qptxrshacvku",
-         "staking_address":"",
+         "staking_address":"juno1sfs7tqehejtz3u65h4cwdkel3qp369thdfu39qhgk4g7nnz7g4esnvaeen",
          "rewards_tokens":[
+            {
+               "rewards_address":"juno1gt0w9yyxasc6acje7q4rnwvpwpdmk4sg65mfm2cusmtkwv4mwjas47nk4p",
+               "token_address":"juno15u3dt79t6sxxa3x3kpkhzsy56edaa5a66wvt3kxmukqjz2sx0hes5sn38g",
+               "swap_address":"juno17h4sgpaksygdnswpx74szv98hggddc08ny4zv5ca63jv53qptxrshacvku",
+               "symbol":"RAW",
+               "name":"Raw",
+               "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Raw.png",
+               "native":false,
+               "denom":"raw",
+               "decimals":6
+            }            
          ]
       }
    ],
