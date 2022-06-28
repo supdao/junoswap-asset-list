@@ -978,9 +978,30 @@
             }
          ],
          "swap_address":"juno1m08vn7klzxh9tmqwajuux202xms2qz3uckle7zvtturcq7vk2yaqpcwxlz",
-         "staking_address":"",
+         "staking_address":"juno1asuge3uue74s0rzjvrptgeq2jn5kgv098lh33a8k2nwchct2uk6szn5a9u",
          "rewards_tokens":[
-            
+            {
+               "rewards_address":"juno13nqp4zaryv0psnjlzdmwah4nl8fdwy9qev34kv42yp7pu4457cwquu0w6t",
+               "token_address":"juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa",
+               "swap_address":"juno1m08vn7klzxh9tmqwajuux202xms2qz3uckle7zvtturcq7vk2yaqpcwxlz",
+               "symbol":"RAC",
+               "name":"Rac",
+               "logoURI":"https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/racoon.png",
+               "native":false,
+               "denom":"rac",
+               "decimals":6
+            },
+            {
+               "rewards_address":"juno1uhu0nuyz6wqx0h5564nx05fsgfh8jdh5qy3gj4nask3n9ehxn5cs2d9rsy",
+               "token_address":"juno15u3dt79t6sxxa3x3kpkhzsy56edaa5a66wvt3kxmukqjz2sx0hes5sn38g",
+               "swap_address":"juno1m08vn7klzxh9tmqwajuux202xms2qz3uckle7zvtturcq7vk2yaqpcwxlz",
+               "symbol":"RAW",
+               "name":"Raw",
+               "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Raw.png",
+               "native":false,
+               "denom":"raw",
+               "decimals":6
+            }            
          ]
       },
       {
