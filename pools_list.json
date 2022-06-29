@@ -1358,9 +1358,19 @@
             }
          ],
          "swap_address":"juno1jz50fj5zkcv3h6hmcfr3nr6eer7rj5pmsry5qj5jc8rfvpeavyzsgknm83",
-         "staking_address":"",
+         "staking_address":"juno15y0xjc6f25f3whu92d2zppl5fws994r9xhs555sxzn7x43rq8vwqhcsxs5",
          "rewards_tokens":[
-            
+            {
+               "rewards_address":"juno17maxguaz574lxzkggfqwwsxrl335f4rzp6t3lpajxmzxl68urz6qek2zda",
+               "token_address":"juno14lycavan8gvpjn97aapzvwmsj8kyrvf644p05r0hu79namyj3ens87650k",
+               "swap_address":"juno1jz50fj5zkcv3h6hmcfr3nr6eer7rj5pmsry5qj5jc8rfvpeavyzsgknm83",
+               "symbol":"SGNL",
+               "name":"Signal",
+               "logoURI":"https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/sgnl.png",
+               "native":false,
+               "denom":"sgnl",
+               "decimals":6
+            }
          ]
       },
       {
@@ -1446,7 +1456,7 @@
                "native":false,
                "denom":"raw",
                "decimals":6
-            }            
+            }
          ]
       }
    ],
