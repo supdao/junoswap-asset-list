@@ -1001,7 +1001,7 @@
                "native":false,
                "denom":"raw",
                "decimals":6
-            }            
+            }
          ]
       },
       {
@@ -1478,6 +1478,44 @@
                "denom":"raw",
                "decimals":6
             }
+         ]
+      },
+      {
+         "pool_id":"JUNO-MNTL",
+         "pool_assets":[
+            {
+               "id":"juno-network",
+               "chain_id":"juno-1",
+               "token_address":"",
+               "symbol":"JUNO",
+               "name":"Juno",
+               "decimals":6,
+               "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
+               "tags":[
+                  "native"
+               ],
+               "native":true,
+               "denom":"ujuno"
+            },
+            {
+               "id":"assetmantle",
+               "chain_id":"mantle-1",
+               "token_address":"",
+               "symbol":"MNTL",
+               "name":"Asset Mantle",
+               "decimals":6,
+               "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/assetmantle.png",
+               "tags":[
+                  "native"
+               ],
+               "native":true,
+               "denom":"ibc/5CB906E82B7A88E62644AD811361F5858B74BA9EBD75C84B6D24B20C01A4819F"
+            }
+         ],
+         "swap_address":"juno1qsmywlded2sdggud5wft44gq2u6c3epl3qhzr4qv7psj536t8yhsfvrcf6",
+         "staking_address":"",
+         "rewards_tokens":[
+            
          ]
       }
    ],
