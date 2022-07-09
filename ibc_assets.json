@@ -208,6 +208,19 @@
       "juno_denom": "ibc/EAC38D55372F38F1AFD68DF7FE9EF762DCF69F26520643CF3F9D292A738D8034",
       "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/axlusdc.png",
       "external_deposit_uri": "https://satellite.money/?source=ethereum&destination=juno&token=usdc"
+    },
+    {
+      "id": "AssetMantle",
+      "name": "MNTL",
+      "symbol": "MNTL",
+      "chain_id": "mantle-1",
+      "rpc": "https://rpc.assetmantle.one:443",
+      "denom": "umntl",
+      "decimals": 6,
+      "channel": "channel-2",
+      "juno_channel": "channel-83",
+      "juno_denom": "ibc/5CB906E82B7A88E62644AD811361F5858B74BA9EBD75C84B6D24B20C01A4819F",
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/assetmantle.png"
     }
   ]
 }
