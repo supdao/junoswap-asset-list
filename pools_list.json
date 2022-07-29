@@ -1517,6 +1517,44 @@
          "rewards_tokens":[
             
          ]
+      },
+         {
+         "pool_id":"JUNO-PUNK",
+         "pool_assets":[
+            {
+               "id":"juno-network",
+               "chain_id":"juno-1",
+               "token_address":"",
+               "symbol":"JUNO",
+               "name":"Juno",
+               "decimals":6,
+               "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
+               "tags":[
+                  "native"
+               ],
+               "native":true,
+               "denom":"ujuno"
+            },
+            {
+               "id":"",
+               "chain_id":"juno-1",
+               "token_address":"juno13926947pmrjly5p9hf5juey65c6rget0gqrnx3us3r6pvnpf4hwqm8mchy",
+               "symbol":"PUNK",
+               "name":"PUNK",
+               "decimals":6,
+               "logoURI":"https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/punk.png",
+               "tags":[
+                  "cw20"
+               ],
+               "native":false,
+               "denom":"hope"
+            }
+         ],
+         "swap_address":"juno14mdhwtxfywk6tyyexqx5ju5qqtzzh8gj0g0c9rmj04ms8pc7xjkqxnsg2a",
+         "staking_address":"",
+         "rewards_tokens":[
+            
+         ]
       }
    ],
    "version":{
