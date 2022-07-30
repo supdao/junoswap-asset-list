@@ -1551,10 +1551,10 @@
             }
          ],
          "swap_address":"juno14mdhwtxfywk6tyyexqx5ju5qqtzzh8gj0g0c9rmj04ms8pc7xjkqxnsg2a",
-         "staking_address":"juno1l9dypwx95f08fmdcepwq5lf7u7p2jf04yun3t98jeaagyephaauqffmuss",
+         "staking_address":"juno1nafeh3sc3dcy0sdduf360t0dgfgjp6ya5r9hkvj5kdsqj58hknfq8rej9l",
          "rewards_tokens":[
             {
-               "rewards_address":"juno1v36neztfumewnl9c5zzl0pl497qaquy54htlj8prwfsrn8retz5sl2p2n4",
+               "rewards_address":"juno14ptdkkczyvhyaqh2z7ygvalrlxenrjd48td99humctj5h7hfqqaq4jzy5k",
                "token_address":"juno13926947pmrjly5p9hf5juey65c6rget0gqrnx3us3r6pvnpf4hwqm8mchy",
                "swap_address":"juno14mdhwtxfywk6tyyexqx5ju5qqtzzh8gj0g0c9rmj04ms8pc7xjkqxnsg2a",
                "symbol":"PUNK",
