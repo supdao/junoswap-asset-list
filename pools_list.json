@@ -1550,13 +1550,13 @@
                "denom":"hope"
             }
          ],
-         "swap_address":"juno1xz65nyc0e2r0fsp5twnjsvuqmwc3wmagnnp703xdd8ensjswffzqlytff3",
-         "staking_address":"juno1jdlj6p4gph4ggy407cc8an96vy0svasyuy9slszknwtlldqwem3q2a8286",
+         "swap_address":"juno150vj5jusg4g8n82q40nd9cmq3unc255u3hf5qh6pud4dexkgyp0ss7yvwq",
+         "staking_address":"juno1fneqh5xvv6az0e7mxad78wqtsnzs4hlyuqapkn30sff6plgrnausa0un2v",
          "rewards_tokens":[
             {
-               "rewards_address":"juno1algz40yftxl8e3tmt37m9xl6zmwnxf4uhmelwzy08d9x0adesues6l8eqe",
+               "rewards_address":"juno15vu0n3rvpzdprzerqualvdag6xw6c2rj2dmjpvheykzmx7jja82qzyl7cc",
                "token_address":"juno13926947pmrjly5p9hf5juey65c6rget0gqrnx3us3r6pvnpf4hwqm8mchy",
-               "swap_address":"juno1xz65nyc0e2r0fsp5twnjsvuqmwc3wmagnnp703xdd8ensjswffzqlytff3",
+               "swap_address":"juno150vj5jusg4g8n82q40nd9cmq3unc255u3hf5qh6pud4dexkgyp0ss7yvwq",
                "symbol":"PUNK",
                "name":"PUNK JUNO TOKEN",
                "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/punk.png",
