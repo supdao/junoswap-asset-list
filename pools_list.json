@@ -1517,6 +1517,54 @@
          "rewards_tokens":[
             
          ]
+      },
+         {
+         "pool_id":"JUNO-PUNK",
+         "pool_assets":[
+            {
+               "id":"juno-network",
+               "chain_id":"juno-1",
+               "token_address":"",
+               "symbol":"JUNO",
+               "name":"Juno",
+               "decimals":6,
+               "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
+               "tags":[
+                  "native"
+               ],
+               "native":true,
+               "denom":"ujuno"
+            },
+            {
+               "id":"",
+               "chain_id":"juno-1",
+               "token_address":"juno13926947pmrjly5p9hf5juey65c6rget0gqrnx3us3r6pvnpf4hwqm8mchy",
+               "symbol":"PUNK",
+               "name":"PUNK",
+               "decimals":6,
+               "logoURI":"https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/punk.png",
+               "tags":[
+                  "cw20"
+               ],
+               "native":false,
+               "denom":"hope"
+            }
+         ],
+         "swap_address":"juno150vj5jusg4g8n82q40nd9cmq3unc255u3hf5qh6pud4dexkgyp0ss7yvwq",
+         "staking_address":"juno1fneqh5xvv6az0e7mxad78wqtsnzs4hlyuqapkn30sff6plgrnausa0un2v",
+         "rewards_tokens":[
+            {
+               "rewards_address":"juno15vu0n3rvpzdprzerqualvdag6xw6c2rj2dmjpvheykzmx7jja82qzyl7cc",
+               "token_address":"juno13926947pmrjly5p9hf5juey65c6rget0gqrnx3us3r6pvnpf4hwqm8mchy",
+               "swap_address":"juno150vj5jusg4g8n82q40nd9cmq3unc255u3hf5qh6pud4dexkgyp0ss7yvwq",
+               "symbol":"PUNK",
+               "name":"PUNK JUNO TOKEN",
+               "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/punk.png",
+               "native":false,
+               "denom":"punk",
+               "decimals":6
+            }
+         ]
       }
    ],
    "version":{
