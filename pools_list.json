@@ -1594,13 +1594,13 @@
             "denom": "glto"
           }
         ],
-        "swap_address": "juno1883e886ujdkgcx94dg35da0l020jcx8y3m6wrf6lf0ntpl5y0mmsq50aru",
-        "staking_address": "juno1hr838c4t46ds2507xw4pwrcja7qgejc4uzvjx6y02sp0ve3d43aseqy0g8",
+        "swap_address": "juno1cugrrrryrpl383kfca0w5swywffa08zwqshrsfre82059vxjlx6syhf73y",
+        "staking_address": "juno14xzzfld96htg7f4rwezlak7tcrhu6838q2l2tspefnfts99wukrqs9e6lc",
         "rewards_tokens": [
           {
-            "rewards_address": "juno1ykv89qyx3kqe573qf6lwv4ltt2vysta9mpc3mksnzdrmlaul64wsca7j4j",
+            "rewards_address": "juno1wrczl2fmpd2cgdnqrd8xlytadqmfsy8x750rdked2r236sg29jus5x74zq",
             "token_address": "juno1j0a9ymgngasfn3l5me8qpd53l5zlm9wurfdk7r65s5mg6tkxal3qpgf5se",
-            "swap_address": "juno1883e886ujdkgcx94dg35da0l020jcx8y3m6wrf6lf0ntpl5y0mmsq50aru",
+            "swap_address": "juno1cugrrrryrpl383kfca0w5swywffa08zwqshrsfre82059vxjlx6syhf73y",
             "symbol": "GLTO",
             "name": "Gelotto",
             "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/glto.png",
