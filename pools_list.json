@@ -1565,6 +1565,50 @@
                "decimals":6
             }
          ]
+      },
+      {
+        "pool_id": "JUNO-GLTO",
+        "pool_assets": [
+          {
+            "id": "juno-network",
+            "chain_id": "juno-1",
+            "token_address": "",
+            "symbol": "JUNO",
+            "name": "Juno",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
+            "tags": ["native"],
+            "native": true,
+            "denom": "ujuno"
+          },
+          {
+            "id": "",
+            "chain_id": "juno-1",
+            "token_address": "juno1j0a9ymgngasfn3l5me8qpd53l5zlm9wurfdk7r65s5mg6tkxal3qpgf5se",
+            "symbol": "GLTO",
+            "name": "Gelotto",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/glto.png",
+            "tags": ["cw20"],
+            "native": false,
+            "denom": "glto"
+          }
+        ],
+        "swap_address": "juno1cugrrrryrpl383kfca0w5swywffa08zwqshrsfre82059vxjlx6syhf73y",
+        "staking_address": "juno14xzzfld96htg7f4rwezlak7tcrhu6838q2l2tspefnfts99wukrqs9e6lc",
+        "rewards_tokens": [
+          {
+            "rewards_address": "juno1wrczl2fmpd2cgdnqrd8xlytadqmfsy8x750rdked2r236sg29jus5x74zq",
+            "token_address": "juno1j0a9ymgngasfn3l5me8qpd53l5zlm9wurfdk7r65s5mg6tkxal3qpgf5se",
+            "swap_address": "juno1cugrrrryrpl383kfca0w5swywffa08zwqshrsfre82059vxjlx6syhf73y",
+            "symbol": "GLTO",
+            "name": "Gelotto",
+            "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/glto.png",
+            "native": false,
+            "denom": "glto",
+            "decimals": 6
+          }
+        ]
       }
    ],
    "version":{
