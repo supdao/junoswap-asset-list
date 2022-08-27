@@ -1607,6 +1607,17 @@
             "native": false,
             "denom": "glto",
             "decimals": 6
+          },
+          {
+            "rewards_address": "juno1x9hta758ddr6swfcl7rangnmsjpn5ewuqj3kxfamfm6v4yv948pque0dv3",
+            "token_address": "juno1gz8cf86zr4vw9cjcyyv432vgdaecvr9n254d3uwwkx9rermekddsxzageh",
+            "swap_address": "juno1cugrrrryrpl383kfca0w5swywffa08zwqshrsfre82059vxjlx6syhf73y",
+            "symbol": "GKEY",
+            "name": "GKey",
+            "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/gkey.png",
+            "native": false,
+            "denom": "gkey",
+            "decimals": 6
           }
         ]
       }
