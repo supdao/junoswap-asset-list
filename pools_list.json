@@ -1727,8 +1727,20 @@
         ]
       },
          {
-        "pool_id": "RAW-LOOP",
+        "pool_id": "LOOP-RAW",
         "pool_assets": [
+          {
+            "id":"",
+            "chain_id":"juno-1",
+            "token_address":"juno1qsrercqegvs4ye0yqg93knv73ye5dc3prqwd6jcdcuj8ggp6w0us66deup",
+            "symbol":"Loop",
+            "name":"Loop",
+            "decimals":6,
+            "logoURI":"https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/a46f3a10b8e67105233f358aa1de114fc34df221/images/loop.png",
+            "tags":["cw20"],
+            "native":false,
+            "denom":"loop"
+          },
           {
             "id": "",
             "chain_id": "juno-1",
@@ -1740,19 +1752,13 @@
             "tags": ["cw20"],
             "native": false,
             "denom": "raw"
-          },
-          {
-            "id":"",
-            "chain_id":"juno-1",
-            "token_address": "juno1qsrercqegvs4ye0yqg93knv73ye5dc3prqwd6jcdcuj8ggp6w0us66deup",
-            "symbol":"Loop",
-            "name":"Loop",
-            "decimals":6,
-            "logoURI":"https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/a46f3a10b8e67105233f358aa1de114fc34df221/images/loop.png",
-            "tags":["cw20"],
-            "native":false,
-            "denom":"loop"
           }
+        ],
+        "swap_address": "juno1qt7uzjg9su3mk78jpt695rmxce4sa7evz7wa0edexjrsxghy35hsgje5l9",
+        "staking_address": "",
+        "rewards_tokens": [
+        ]
+      }
         ],
         "swap_address": "juno1htpf9u449tjgd0nttgweg6h2a3lk26utwr9l6mmzwavnrhaldmhsyycymg",
         "staking_address": "",
