@@ -1759,12 +1759,6 @@
         "rewards_tokens": [
         ]
       }
-        ],
-        "swap_address": "juno1htpf9u449tjgd0nttgweg6h2a3lk26utwr9l6mmzwavnrhaldmhsyycymg",
-        "staking_address": "",
-        "rewards_tokens": [
-        ]
-      }
    ],
    "version":{
       "major":0,
