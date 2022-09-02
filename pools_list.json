@@ -1748,7 +1748,7 @@
             "symbol":"Loop",
             "name":"Loop",
             "decimals":6,
-            "logoURI":"",
+            "logoURI":"https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/a46f3a10b8e67105233f358aa1de114fc34df221/images/loop.png",
             "tags":["cw20"],
             "native":false,
             "denom":"loop"
