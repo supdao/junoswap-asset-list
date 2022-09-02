@@ -1750,7 +1750,7 @@
           "symbol": "MUSE",
           "name": "MUSE",
           "decimals": "6",
-          "logoURI": "https://static1.squarespace.com/static/61b90587c54f1b1c67f346bd/t/6302a0b67909ad66da36f2d2/1661116599405/FINAL+MUSEDAO+LOGO+%281%29.png",
+          "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/MUSE.png",
           "tags": [
             "cw20"
           ],
