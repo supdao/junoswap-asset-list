@@ -1744,7 +1744,7 @@
           {
             "id":"",
             "chain_id":"juno-1",
-            "token_address":"juno1qsrercqegvs4ye0yqg93knv73ye5dc3prqwd6jcdcuj8ggp6w0us66deup",
+            "token_address": "juno1qsrercqegvs4ye0yqg93knv73ye5dc3prqwd6jcdcuj8ggp6w0us66deup",
             "symbol":"Loop",
             "name":"Loop",
             "decimals":6,
