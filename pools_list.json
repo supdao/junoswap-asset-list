@@ -1793,7 +1793,8 @@
       ],
       "swap_address": "juno107l74mj5q7d6zdzqzwpmdkk76628az2p9z08z9cj5pa7s5fpucws96f57e",
       "staking_address": "",
-      "rewards_tokens": []
+      "rewards_tokens": [
+	  ]
       } 
    ],
    "version":{
