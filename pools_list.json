@@ -1758,7 +1758,6 @@
         "staking_address": "",
         "rewards_tokens": [
         ]
-
       },
 	    {
       "pool_id": "JUNO-MUSE",
@@ -1797,7 +1796,6 @@
       "rewards_tokens": [
 	  ]
       } 
-
    ],
    "version":{
       "major":0,
