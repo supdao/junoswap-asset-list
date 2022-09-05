@@ -1726,6 +1726,41 @@
         "rewards_tokens": [
         ]
       },
+      {
+        "pool_id": "seJUNO-JUNO",
+        "pool_assets": [
+          {
+            "id": "",
+            "chain_id": "juno-1",
+            "token_address": "juno1dd0k0um5rqncfueza62w9sentdfh3ec4nw4aq4lk5hkjl63vljqscth9gv",
+            "symbol": "seJUNO",
+            "name": "StakeEasy seJUNO",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/sejuno.png",
+            "tags": ["cw20"],
+            "native": false,
+            "denom": "sejuno"
+          },
+          {
+            "id":"juno-network",
+            "chain_id":"juno-1",
+            "token_address":"",
+            "symbol":"JUNO",
+            "name":"Juno",
+            "decimals":6,
+            "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
+            "tags":[
+               "native"
+            ],
+            "native":true,
+            "denom":"ujuno"
+          }
+        ],
+        "swap_address": "juno10epwgtux4th7ka26lnd7x9r7de90lvurx65ealw5djdt6dyhzp3q4ghpnu",
+        "staking_address": "",
+        "rewards_tokens": [
+        ]
+      },
          {
         "pool_id": "LOOP-RAW",
         "pool_assets": [
