@@ -1651,7 +1651,7 @@
             "denom":"ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9"
           }
         ],
-        "swap_address": "juno1v842hl5mtn2kjeu4sscr4e3y9jmv7tf0h7cy4wm6nusyf4v8j6ssh8gkgp",
+        "swap_address": "juno1fha0ux5k6xxzzknhwk0j2rtwxtczlp8kzk6w9g383lzjhu337k9swvjdlv",
         "staking_address": "",
         "rewards_tokens": [
         ]
@@ -1686,7 +1686,7 @@
             "denom":"raw"
           }
         ],
-        "swap_address": "juno1ytntasjjyzpdfhsw60yp7rt3ww57nqth45lfaek9ae65ylm0xpkqsp47fz",
+        "swap_address": "juno1gxvcltkl0tf20rpsn2wf9q6ex0vr5xk6j3tzezuv6yyjez97w5vqmxk0cv",
         "staking_address": "",
         "rewards_tokens": [
         ]
@@ -1756,7 +1756,42 @@
             "denom":"ujuno"
           }
         ],
-        "swap_address": "juno10epwgtux4th7ka26lnd7x9r7de90lvurx65ealw5djdt6dyhzp3q4ghpnu",
+        "swap_address": "juno1d04vn4t3cw494md0xleyqk6hxt8ctn5gmr353h06uvnudlvk5chq93vmjq",
+        "staking_address": "",
+        "rewards_tokens": [
+        ]
+      },
+      {
+        "pool_id": "SEASY-JUNO",
+        "pool_assets": [
+          {
+            "id": "",
+            "chain_id": "juno-1",
+            "token_address": "juno19rqljkh95gh40s7qdx40ksx3zq5tm4qsmsrdz9smw668x9zdr3lqtg33mf",
+            "symbol": "SEASY",
+            "name": "StakeEasy governance token",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/seasy.png",
+            "tags": ["cw20"],
+            "native": false,
+            "denom": "seasy"
+          },
+          {
+            "id":"juno-network",
+            "chain_id":"juno-1",
+            "token_address":"",
+            "symbol":"JUNO",
+            "name":"Juno",
+            "decimals":6,
+            "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
+            "tags":[
+               "native"
+            ],
+            "native":true,
+            "denom":"ujuno"
+          }
+        ],
+        "swap_address": "juno14hrt7htv42234xwpsxmxaxu7wywak7zflpk9jf5nze3w6e93czdsfwe0ly",
         "staking_address": "",
         "rewards_tokens": [
         ]
