@@ -1663,8 +1663,19 @@
           }
         ],
         "swap_address": "juno1fha0ux5k6xxzzknhwk0j2rtwxtczlp8kzk6w9g383lzjhu337k9swvjdlv",
-        "staking_address": "",
+        "staking_address": "juno15exy530csjch68unw3zdncgyyymwnufx6mmfu9sjzcfsafa9utsqhf94y4",
         "rewards_tokens": [
+          {
+            "rewards_address": "juno1jsykneh8hhdxztz5vxmnvgs9yl4qhrfua9huw9w0xfcsw9ma2m8sxr8xmq",
+            "token_address": "juno19rqljkh95gh40s7qdx40ksx3zq5tm4qsmsrdz9smw668x9zdr3lqtg33mf",
+            "swap_address": "juno14hrt7htv42234xwpsxmxaxu7wywak7zflpk9jf5nze3w6e93czdsfwe0ly",
+            "symbol": "SEASY",
+            "name": "StakeEasy governance token",
+            "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/seasy.png",
+            "native": false,
+            "denom": "seasy",
+            "decimals": 6
+          }
         ]
       },
       {
@@ -1698,8 +1709,19 @@
           }
         ],
         "swap_address": "juno1gxvcltkl0tf20rpsn2wf9q6ex0vr5xk6j3tzezuv6yyjez97w5vqmxk0cv",
-        "staking_address": "",
+        "staking_address": "juno1ahm693l08esz4a99jz4nvkpsa2w6l3um55znumjvuclksfsdeyhsa7ra2w",
         "rewards_tokens": [
+          {
+            "rewards_address": "juno1pdd5dz2p36t05rgc67j25fnm0yfg4jhhl3sh4zfykcdrs0jthprssy90ve",
+            "token_address": "juno19rqljkh95gh40s7qdx40ksx3zq5tm4qsmsrdz9smw668x9zdr3lqtg33mf",
+            "swap_address": "juno14hrt7htv42234xwpsxmxaxu7wywak7zflpk9jf5nze3w6e93czdsfwe0ly",
+            "symbol": "SEASY",
+            "name": "StakeEasy governance token",
+            "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/seasy.png",
+            "native": false,
+            "denom": "seasy",
+            "decimals": 6
+          }
         ]
       },
       {
@@ -1768,8 +1790,19 @@
           }
         ],
         "swap_address": "juno1d04vn4t3cw494md0xleyqk6hxt8ctn5gmr353h06uvnudlvk5chq93vmjq",
-        "staking_address": "",
+        "staking_address": "juno15gezc5ra6uwxkygfa672cqe3vf4u3pd5wgdc64tsaf9660wtl5ssp3cp2x",
         "rewards_tokens": [
+          {
+            "rewards_address": "juno1jcjh9yu9275ltp52r5nv5uze2347mq9fy48d87fn9a079xel56cqt96upl",
+            "token_address": "juno19rqljkh95gh40s7qdx40ksx3zq5tm4qsmsrdz9smw668x9zdr3lqtg33mf",
+            "swap_address": "juno14hrt7htv42234xwpsxmxaxu7wywak7zflpk9jf5nze3w6e93czdsfwe0ly",
+            "symbol": "SEASY",
+            "name": "StakeEasy governance token",
+            "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/seasy.png",
+            "native": false,
+            "denom": "seasy",
+            "decimals": 6
+          }
         ]
       },
       {
@@ -1803,8 +1836,19 @@
           }
         ],
         "swap_address": "juno14hrt7htv42234xwpsxmxaxu7wywak7zflpk9jf5nze3w6e93czdsfwe0ly",
-        "staking_address": "",
+        "staking_address": "juno1vujvwn7m9ekdshg678k2arg0s7a32z4wgppj39965gervwrzmeuqpejyw0",
         "rewards_tokens": [
+          {
+            "rewards_address": "juno1ruaj63w8jlgunjdr9tvc7d2rehnkxknerf33f536nhtl0222nj4swfwvdk",
+            "token_address": "juno19rqljkh95gh40s7qdx40ksx3zq5tm4qsmsrdz9smw668x9zdr3lqtg33mf",
+            "swap_address": "juno14hrt7htv42234xwpsxmxaxu7wywak7zflpk9jf5nze3w6e93czdsfwe0ly",
+            "symbol": "SEASY",
+            "name": "StakeEasy governance token",
+            "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/seasy.png",
+            "native": false,
+            "denom": "seasy",
+            "decimals": 6
+          }
         ]
       },
          {
