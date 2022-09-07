@@ -1618,6 +1618,17 @@
             "native": false,
             "denom": "gkey",
             "decimals": 6
+          },
+          {
+            "rewards_address": "juno1wstya996rl4fpgdmekj42t0xd0lj8k4rwlzt5lapa6cdu9daz2fqphua88",
+            "token_address": "juno15u3dt79t6sxxa3x3kpkhzsy56edaa5a66wvt3kxmukqjz2sx0hes5sn38g",
+            "swap_address": "juno1cugrrrryrpl383kfca0w5swywffa08zwqshrsfre82059vxjlx6syhf73y",
+            "symbol": "RAW",
+            "name": "Raw",
+            "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Raw.png",
+            "native": false,
+            "denom": "raw",
+            "decimals": 6		  
           }
         ]
       },
