@@ -1668,7 +1668,7 @@
           {
             "rewards_address": "juno1jsykneh8hhdxztz5vxmnvgs9yl4qhrfua9huw9w0xfcsw9ma2m8sxr8xmq",
             "token_address": "juno19rqljkh95gh40s7qdx40ksx3zq5tm4qsmsrdz9smw668x9zdr3lqtg33mf",
-            "swap_address": "juno14hrt7htv42234xwpsxmxaxu7wywak7zflpk9jf5nze3w6e93czdsfwe0ly",
+            "swap_address": "juno1fha0ux5k6xxzzknhwk0j2rtwxtczlp8kzk6w9g383lzjhu337k9swvjdlv",
             "symbol": "SEASY",
             "name": "StakeEasy governance token",
             "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/seasy.png",
@@ -1714,7 +1714,7 @@
           {
             "rewards_address": "juno1pdd5dz2p36t05rgc67j25fnm0yfg4jhhl3sh4zfykcdrs0jthprssy90ve",
             "token_address": "juno19rqljkh95gh40s7qdx40ksx3zq5tm4qsmsrdz9smw668x9zdr3lqtg33mf",
-            "swap_address": "juno14hrt7htv42234xwpsxmxaxu7wywak7zflpk9jf5nze3w6e93czdsfwe0ly",
+            "swap_address": "juno1gxvcltkl0tf20rpsn2wf9q6ex0vr5xk6j3tzezuv6yyjez97w5vqmxk0cv",
             "symbol": "SEASY",
             "name": "StakeEasy governance token",
             "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/seasy.png",
@@ -1795,7 +1795,7 @@
           {
             "rewards_address": "juno1jcjh9yu9275ltp52r5nv5uze2347mq9fy48d87fn9a079xel56cqt96upl",
             "token_address": "juno19rqljkh95gh40s7qdx40ksx3zq5tm4qsmsrdz9smw668x9zdr3lqtg33mf",
-            "swap_address": "juno14hrt7htv42234xwpsxmxaxu7wywak7zflpk9jf5nze3w6e93czdsfwe0ly",
+            "swap_address": "juno1d04vn4t3cw494md0xleyqk6hxt8ctn5gmr353h06uvnudlvk5chq93vmjq",
             "symbol": "SEASY",
             "name": "StakeEasy governance token",
             "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/seasy.png",
