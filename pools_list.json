@@ -1966,6 +1966,40 @@
             "decimals":6
          }
         ]
+      },
+      {
+        "pool_id": "JUNO-VERSE",
+        "pool_assets": [
+          {
+            "id":"juno-network",
+            "chain_id":"juno-1",
+            "token_address":"",
+            "symbol":"JUNO",
+            "name":"Juno",
+            "decimals":6,
+            "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
+            "tags":[
+               "native"
+            ],
+            "native":true,
+            "denom":"ujuno"
+          },
+          {
+            "id": "",
+            "chain_id": "juno-1",
+            "token_address": "juno1kqx9rhc8ksx52tukdx797k4rjrhkgfh4gljs04ql97hmnnkgyvxs5cqt7d",
+            "symbol": "VERSE",
+            "name": "UniverseDAO",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/VERSE.png",
+            "tags": ["cw20"],
+            "native": false,
+            "denom": "verse"
+          }
+        ],
+        "swap_address": "juno19s8kt9mf667uwku2g5te5lvaaf4uwgwsxwx3frcwtnplgaqzq85qeq32qe",
+        "staking_address": "",
+        "rewards_tokens": []
       }
    ],
    "version":{
